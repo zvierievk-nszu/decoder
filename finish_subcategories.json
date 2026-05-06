@@ -363,6 +363,15 @@
             "053567773b449f3f4ff5f414299565272c4e1659bc952cdc83c1c73a1f5188fb"
         ]
     },
+    "cb97508498ebd1d60a9b05335c63adda14bda4934ffb4975eb80b6f0089bfddf": {
+        "title": "Бойова травма ока",
+        "url": "https://www.dec.gov.ua/mtd/bojova-travma-oka/",
+        "items": [
+            "b69375c5c6906be8c0b4be5714d88f400413124a2f3b3907dfc93dde16f9f7cd",
+            "1ebe1e9eb487d0c8115ebc5f466aeb3ca9d439ceb50913f28508b6168d293661",
+            "58951d914809ca78902dfd23152e51fa4e942021ddc4711f65f43068cb0eca99"
+        ]
+    },
     "feab729900604177ce0e0eeb6932d2c05231be18b7bbb41e463b5e16bf014af9": {
         "title": "Вторинна профілактика інсульту",
         "url": "https://www.dec.gov.ua/mtd/vtorynna-profilaktyka-insultu/",
@@ -1635,6 +1644,15 @@
             "170c04b789a7b87a18cb2b666b9b4288d203f4ac6a64d8f0029c861f9bce91b6"
         ]
     },
+    "2e882e334dd25e0570c26a7607532e20137085770b16c251908544052287c63b": {
+        "title": "Суїцидальна поведінка",
+        "url": "https://www.dec.gov.ua/mtd/suyiczydalna-povedinka/",
+        "items": [
+            "8e74178a5a9aec0753c4ad064d2ba33264440f2dea24a2347d8c6b32d0d43084",
+            "b53b6ea8fa2ccef0206eb1cbe231fa769785a7be8d40611c69f8fbd0fcc3e78c",
+            "bcff8a627cce7dbe003decee7d377456fd04a4bc324f61bc4897ad5f40393df7"
+        ]
+    },
     "8eeb062cb015f71f2e89951bd2377a887c13944246e83a503a5e5ed3639b9d7d": {
         "title": "Психічні та поведінкові розлади внаслідок вживання алкоголю",
         "url": "https://www.dec.gov.ua/mtd/psyhichni-ta-povedinkovi-rozlady-vnaslidok-vzhyvannya-alkogolyu/",
@@ -1927,8 +1945,8 @@
         "title": "Парентеральна периопераційна антибіотикопрофілактика",
         "url": "https://www.dec.gov.ua/mtd/parenteralna-peryoperaczijna-antybiotykoprofilaktyka/",
         "items": [
-            "217dfb66b6b389aff5cc9a5356d1927512c5edce885c94d0e631950c0c686063",
-            "93f4a5577fb018529e0e047138b9d25cc47be27768721e8d1d99f2e7214b704b"
+            "d5e6577b7354b8fc8888514ada21efec7798ef6139df8e904b52020b94262880",
+            "7f150a0826e4fd7f554664cfac1cbbd1d0d2e0e3bb65ccf9d7763cc62c671b8f"
         ]
     }
 }

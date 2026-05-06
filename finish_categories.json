@@ -1,6 +1,5 @@
 {
-    "d073b13dba255b4796dba8ec73b436a097ef0e180afcadd82061b0d836acc560": {
-        "value": "Акушерство і гінекологія",
+    "f66290b8bc305a199c9658653caebb600cb62debf8ea890593127e5f31fa42c2": {
         "name": "Акушерство і гінекологія",
         "subcategories": [
             "feed1a0eb485976dc3f5415cfd88af33f6551d303398a38263529a5a6f50321b",
@@ -32,8 +31,7 @@
             "80d379a4c164fb780c73d895eca5254d32719c6ede3c8183753f9f47c35457f2"
         ]
     },
-    "209381bf1de8c23475b3a551d69dce306681bfaefd3ef69d4baaf6767039df9d": {
-        "value": "Алергологія",
+    "8919a508d3c513dd52d66c3f51a4f22623435c0486b65ed8599f094f083a52af": {
         "name": "Алергологія",
         "subcategories": [
             "bdf66fb35d4d650178f42c987a152f59bfae295dfd8077aec509ace77e6d6998",
@@ -44,13 +42,13 @@
             "7b9dbb114f8d6381c41f0985a828554c70d7197cfb4b5d3ba666fcbbac106cf6"
         ]
     },
-    "be11df13871c22cffc824932fbd25bdad00839465f57e4c9fdc948105cb9b739": {
-        "value": "Анестезіологія",
+    "9fa2f97ba5b99dff40122326c7a20ea1941c9b5b87bd7cf64426c2576366112c": {
         "name": "Анестезіологія",
         "subcategories": [
             "1efc40f7aadc1a13d29be4443310a72c645fdb52ed451e472ce829b1d8eede0e",
             "76a4a789f380c742244f7decb2fa726cf662ccf42b73503251dfb27f69b87ae3",
             "53128c8f9a76e0930d18d72c9f8a77a81a295006cd8484a73e20c39c77daa2aa",
+            "cb97508498ebd1d60a9b05335c63adda14bda4934ffb4975eb80b6f0089bfddf",
             "feab729900604177ce0e0eeb6932d2c05231be18b7bbb41e463b5e16bf014af9",
             "63e957791f9fef923fa337534a6f4aea23d107f01c8efcd62cb33a517a38e002",
             "a2888ef310214687ba7d74542dd375a524a4c4e6fca2e091e6b22ed8dfa15f70",
@@ -67,8 +65,7 @@
             "f80bda8afd98d4d2983b12a38016f0b00c378cb382bc6634b0aa72edf1a831fb"
         ]
     },
-    "c086dab100427dbaf70c9278eee5e13dbd000b38a545d178057528a282e7f4ed": {
-        "value": "ВІЛ/СНІД",
+    "06a1db07291279ea7bfe3971f737e8336c65ff7346a3df61aa39b748de1c35e1": {
         "name": "ВІЛ/СНІД",
         "subcategories": [
             "23b57ac68c1eb82404ee164934b5774dbaec85c038b04d68c018f7649be38849",
@@ -76,15 +73,13 @@
             "7745413a6d5153851ae53d6c9e1d5416afeff008a7f5a3cb546b1d2328cfbb7b"
         ]
     },
-    "e6a56cfa8ca09b506caa29007493594baec330a82caf1f651f60dc84b98b086e": {
-        "value": "Вірусологія",
+    "faff33afd51794d76a909bcb676ee6abe36ef7c22e60a9b4ef0f1ccfd0eec018": {
         "name": "Вірусологія",
         "subcategories": [
             "74e623179dc9a1e78e27ca4909e84de9f25d8c879aa9c6ea849a54d595e9130c"
         ]
     },
-    "dc78f7d5428eb242c24b18f2c73b5c2e731beefd615111ec872ed8a6e8b186c5": {
-        "value": "Гастроентерологія",
+    "2d721aff29249cf1eaaa7296e0ad4386ff5b8c5368c4cf81a73a6a4c0db00192": {
         "name": "Гастроентерологія",
         "subcategories": [
             "1f54947073e4320cf614c066ab54c7687f604b48466aaa5ecd66f14284813c42",
@@ -112,8 +107,7 @@
             "f80bda8afd98d4d2983b12a38016f0b00c378cb382bc6634b0aa72edf1a831fb"
         ]
     },
-    "d1b523244433b528457acfb23f3aafeccf3155ca4a9f0f6dd6f8fb475cf5166c": {
-        "value": "Гематологія",
+    "a9460994f3256e65c68958b70a679de418dca1a0aa06897c787071746f3b16a3": {
         "name": "Гематологія",
         "subcategories": [
             "e4b7a46c59bb7e8a73a54a3c21424d965062030182c422fe70ae67c6c389c68c",
@@ -132,8 +126,7 @@
             "834ecb8bdfa2ea99339187b80f78a5bc84841f8fcd1e43562b2d0c4c51fb8a6a"
         ]
     },
-    "5a1a2215290001bcbbbac65c7f2e041882179385db07168565e0b95f4732e6a2": {
-        "value": "Генетика медична",
+    "129cdb982f0b0f136672e4882a934037559fee78ba90f68ddf42862bea3b0e81": {
         "name": "Генетика медична",
         "subcategories": [
             "866f63d9c1e46ccf3dbedacfa44cd3c45a4d78b15ab4d30d1eef4b4aa08d5cbe",
@@ -147,8 +140,7 @@
             "c90f77e0a91081028a1f256ae10e79a0f0d0db70783ca7d9dc5776fc5ee4da29"
         ]
     },
-    "77355afee532d1353ab44b952ccbf17fdbf013da4c71fba327e9fed533224b54": {
-        "value": "Дерматовенерологія",
+    "0bcde17d808b6373c483c7dcba7e6bdd95b3cbc515c3debf5e9076371cae32d0": {
         "name": "Дерматовенерологія",
         "subcategories": [
             "bdf66fb35d4d650178f42c987a152f59bfae295dfd8077aec509ace77e6d6998",
@@ -162,16 +154,14 @@
             "930d8f4c8cb012c6a2b22250efdc064e9c381e0385cacb56dc53ba323eef1f85"
         ]
     },
-    "0cbf8565fbb54ae880f931bcac12f4ca96f96c25ff4d52a2c1e730b86c3dfc7d": {
-        "value": "Дитяча гінекологія",
+    "8fba39cb5b86a5916526e047dbdd0363d2596fc02f4bb0639de8d43dddd383ff": {
         "name": "Дитяча гінекологія",
         "subcategories": [
             "4aa5aed9c88a19f8d4ac930a57d87e49879b261844719113f593c65ef0a1fbbb",
             "85c9f717d1badb6b2e2e240cd1ead5af49cfd98d4d54be62aed9d351bb73c277"
         ]
     },
-    "89deeb06e070c2c6c34f4d83e35b655c47b0ed690736bdc920837cd02f9c424c": {
-        "value": "Дієтологія",
+    "db81412c35b838631269adc965e6c03e9fd3e1135bc5876dcc456da9a46d09e3": {
         "name": "Дієтологія",
         "subcategories": [
             "1f54947073e4320cf614c066ab54c7687f604b48466aaa5ecd66f14284813c42",
@@ -195,8 +185,7 @@
             "2505832a5f2588c20a6c6509c57165b30a099ccaaf2a4a03c3af518e919891c4"
         ]
     },
-    "886c3b5794879d464824743e6a5e964f65b87f7e1ce95d1e1fd017214d9d94d1": {
-        "value": "Екстрена медична допомога",
+    "78c3db34efa73598c1540b8d2aac6c654803d881c56861c3b710729a786ee0a3": {
         "name": "Екстрена медична допомога",
         "subcategories": [
             "53128c8f9a76e0930d18d72c9f8a77a81a295006cd8484a73e20c39c77daa2aa",
@@ -209,8 +198,7 @@
             "decd235a3ff30408fc606110dcdb3ff51241251c5795ec77ba94601b6ac4228f"
         ]
     },
-    "e19d603dc749d8a191b39a481eab174e32a875de15224a8bcdfc2cab2f44b082": {
-        "value": "Ендокринологія",
+    "16edc0dc632e19a1ba5317be60bb67e5458916e2f4d907a02acde1b99c262c64": {
         "name": "Ендокринологія",
         "subcategories": [
             "571e9983a04213c9b07a108f6a8326c1ff3baf569dd10a8f416a1b90938ec2c2",
@@ -234,15 +222,13 @@
             "2505832a5f2588c20a6c6509c57165b30a099ccaaf2a4a03c3af518e919891c4"
         ]
     },
-    "09f31484120c443fa8426e9d280787edf5c375680a256c8a15b618b66301db7f": {
-        "value": "Епідеміологія",
+    "91a2e63648cd6ea8bfdc1e28486232b70bdbd4c2b7f7616e72c9156d540cb400": {
         "name": "Епідеміологія",
         "subcategories": [
             "7a95c3d4457ecd1947d6b3362344a343b42159bcc3239e0315aed9e676de1983"
         ]
     },
-    "f032cc66ffda23981ac72a4c8817fca5149d8bfa331841da3f9588753d63fc08": {
-        "value": "Загальна практика - сімейна медицина",
+    "bddf2b099e45dfe6b6f13ace72365e62fdc906fb8b91771379c97b7cdccab6dc": {
         "name": "Загальна практика - сімейна медицина",
         "subcategories": [
             "1f54947073e4320cf614c066ab54c7687f604b48466aaa5ecd66f14284813c42",
@@ -383,8 +369,7 @@
             "8819d254ed17bf93a2fdb4fb17acb65359123dff4fdb3d32180d2b1d7db8a121"
         ]
     },
-    "f6cfe1c1087dac69fa478a4acc0b0953ff0350acf4e64d95ffca25ada6daccfc": {
-        "value": "Імунологія",
+    "f413ae11b3cdd27bab6047aea2b11b587aca9a61139305dc2436b0c5177df7ac": {
         "name": "Імунологія",
         "subcategories": [
             "bdf66fb35d4d650178f42c987a152f59bfae295dfd8077aec509ace77e6d6998",
@@ -405,8 +390,7 @@
             "8819d254ed17bf93a2fdb4fb17acb65359123dff4fdb3d32180d2b1d7db8a121"
         ]
     },
-    "c7b51fd333196657d60e3475cea9d83574281d15d20c6c0ba1d54f5b3fbe7351": {
-        "value": "Інфекційні хвороби",
+    "3f3d02ccf2b041c678ba4619b841fb14cbc420f125e9aaf7c82496575a575ff6": {
         "name": "Інфекційні хвороби",
         "subcategories": [
             "1efc40f7aadc1a13d29be4443310a72c645fdb52ed451e472ce829b1d8eede0e",
@@ -429,8 +413,7 @@
             "750fc1569361c8bad9eb904fb18954616f47337c3191d3563b6d592f3a4983fd"
         ]
     },
-    "a8781e2cbd029ec8f3da4844b2650b95d9e046999f0465ad54d67b19ae123ad0": {
-        "value": "Кардіологія",
+    "e7233634171223ee02fc857ef9f461cc25382cbc987162d1377b64038f861c7a": {
         "name": "Кардіологія",
         "subcategories": [
             "05d53af19654316c7ac678a01bba31905bb84b67e18ff2f307d68e7abce1d580",
@@ -453,8 +436,7 @@
             "a436744e14c1a7795a66f858029179fbe56cfc0fc4c511e0895b911177517394"
         ]
     },
-    "77361f17aea94137130362fb91731e0139cc0457953e4602297fb624fa1e6626": {
-        "value": "Кардіоревматологія",
+    "dcef59c53f6672e21b07794dfd61d3e14d9f8d10bc30dd163fe42fbae40cb9fa": {
         "name": "Кардіоревматологія",
         "subcategories": [
             "fe88aaf5645ec1c219b77fcca9db4717d926178540eff930b82f3467cf7a7740",
@@ -462,23 +444,20 @@
             "8819d254ed17bf93a2fdb4fb17acb65359123dff4fdb3d32180d2b1d7db8a121"
         ]
     },
-    "cce2d3db30e2dad231f465302bae2c084c25861992487bdd0efbc5b4bd6801a3": {
-        "value": "Клінічна імунологія",
+    "4040fe016c8e486534d830f1cbfa3d566f9ea943a307bcb8352b774a36fc0f14": {
         "name": "Клінічна імунологія",
         "subcategories": [
             "93d7caaa1eb5241bf7106ab162585e8f9eeaadb0df9d4e178d93e3140d7f3209"
         ]
     },
-    "0efbdce2658307972f5243c69598476768b7ebf79aa5cd324f050e2451b43c12": {
-        "value": "Клінічна фармація",
+    "d827234d2f9d6c73197a5d451134f7accf992f235142ee758578caa77f25a621": {
         "name": "Клінічна фармація",
         "subcategories": [
             "c929a4ed46966792d5c704e99a9e3d19017361ea3ac5c4a74e983deb7fdf0431",
             "98042513d6f21d363362f9aaa2c299f6088257b4c5f80e4a9fdbe65b24ae1358"
         ]
     },
-    "76ca310e53cf819f564639eb50ccbaab085cbb27baf51b27686f56b6578f6544": {
-        "value": "Комбустіологія",
+    "c121b91d1f9543481b0e618540af5536601a4bcfb1eaf62254f055c9eb617a74": {
         "name": "Комбустіологія",
         "subcategories": [
             "1efc40f7aadc1a13d29be4443310a72c645fdb52ed451e472ce829b1d8eede0e",
@@ -486,8 +465,7 @@
             "c774e181c5cb907ffe56db25c9fab875bfdb043d2f358e0d612746b1d4a67630"
         ]
     },
-    "53c730d3f93ed2c880b1e6f75fb7602c5d7cb8124824e3cf8fff04033a13541b": {
-        "value": "Лікувальна фізкультура і спортивна медицина",
+    "f091663dcadb246c1df98b2a89c3e0ca007c94c45affdfc36c8e4fe87b225a27": {
         "name": "Лікувальна фізкультура і спортивна медицина",
         "subcategories": [
             "e4b7a46c59bb7e8a73a54a3c21424d965062030182c422fe70ae67c6c389c68c",
@@ -496,8 +474,7 @@
             "3ad137f8ec1043d1bb83d69551c6f7503e7c7086d79ed916b7c2d892b6f9e8ac"
         ]
     },
-    "f27a6459dc8fec84db230dd18213a8fe21d94428694a1b1d954a4c7710025f2c": {
-        "value": "Медицина невідкладних станів",
+    "c29f9da56b90f45c04ec232728abc751b8e0820f2b6a7623812d579b7830d394": {
         "name": "Медицина невідкладних станів",
         "subcategories": [
             "81ccbe7fff7edc9c63b1d4aa6825b8caa127c21a72bef76e6fb060c0b10b8822",
@@ -505,11 +482,11 @@
             "13610a2a2522e31d786bc9a661d5e86d4539216ae551b92075d46e3f500b1bb1",
             "c3a1166284de804aa95d1c8d1eb56d6ae397e4a286441f4be389d5e20f503a5a",
             "11c1f80ffe47e37a1ab7c3dda216963afdd04aeb1c7de5277a8accb7e04d79c9",
-            "decd235a3ff30408fc606110dcdb3ff51241251c5795ec77ba94601b6ac4228f"
+            "decd235a3ff30408fc606110dcdb3ff51241251c5795ec77ba94601b6ac4228f",
+            "2e882e334dd25e0570c26a7607532e20137085770b16c251908544052287c63b"
         ]
     },
-    "fbf9424875137783a58ee1ee0c512d5f6aec6c2497109fec091da33998791ca2": {
-        "value": "Медична психологія",
+    "3f213ae7e0e56ad22e1fe82150d033603cc6525d41e3c424bf91cffeb158e670": {
         "name": "Медична психологія",
         "subcategories": [
             "ba7e7fc456976b188cf787ba1951bfdea50becb41f18dfdd8507238c7831d33e",
@@ -527,11 +504,11 @@
             "8eeb062cb015f71f2e89951bd2377a887c13944246e83a503a5e5ed3639b9d7d",
             "99b3f802cfd6f2ef6b9de4608d62d07b614cf34de1fe2ac8997dd49d8bd8c6d1",
             "3ad137f8ec1043d1bb83d69551c6f7503e7c7086d79ed916b7c2d892b6f9e8ac",
-            "b9bc82567923df83215d0d0c1afac5f8258e7f7348b2cd2900b1ef61916c871f"
+            "b9bc82567923df83215d0d0c1afac5f8258e7f7348b2cd2900b1ef61916c871f",
+            "2e882e334dd25e0570c26a7607532e20137085770b16c251908544052287c63b"
         ]
     },
-    "bd3e8b263f508ebba0912d83f4d39f370563296c2b54c2d56a3ce164757c869f": {
-        "value": "Наркологія",
+    "9ae753a8ec1e6ce031134bc442c6821df9e4f01c064e11cd48b2d7bb561d071f": {
         "name": "Наркологія",
         "subcategories": [
             "1f54947073e4320cf614c066ab54c7687f604b48466aaa5ecd66f14284813c42",
@@ -543,8 +520,7 @@
             "b9bc82567923df83215d0d0c1afac5f8258e7f7348b2cd2900b1ef61916c871f"
         ]
     },
-    "a9534f1227d8624679dca04498a97c7c2f091349f3c1dbfa6f7fa5e495e27f04": {
-        "value": "Неврологія",
+    "7829d98cdecf7b9be24715d75582c5356e5d3c53cc6917b9d6e33ca057f98b28": {
         "name": "Неврологія",
         "subcategories": [
             "a01f092b1e5d30691489d3be197fde96011f7220387b0a2f9fc5460bf85f5752",
@@ -580,11 +556,11 @@
             "a436744e14c1a7795a66f858029179fbe56cfc0fc4c511e0895b911177517394"
         ]
     },
-    "6c93142cfb5bd981ff909e79d9db691180fbcc0f13beb2bc34137d88a62b1724": {
-        "value": "Нейрохірургія",
+    "82b3fa0437ffa13965df80730c5a5455839c27d076cf4d21542543d8849b8923": {
         "name": "Нейрохірургія",
         "subcategories": [
             "53128c8f9a76e0930d18d72c9f8a77a81a295006cd8484a73e20c39c77daa2aa",
+            "cb97508498ebd1d60a9b05335c63adda14bda4934ffb4975eb80b6f0089bfddf",
             "feab729900604177ce0e0eeb6932d2c05231be18b7bbb41e463b5e16bf014af9",
             "63e957791f9fef923fa337534a6f4aea23d107f01c8efcd62cb33a517a38e002",
             "9c340b929744fa03834590a313554cc84be03948a5a7383a40205e5fb21e39d6",
@@ -597,8 +573,7 @@
             "b4edf7340107f349afae56bf80972e96b2609fa7415265c21fc8c94e58950767"
         ]
     },
-    "68ff522654d8acbd183816e04b6b3bc1f03c778abc63c317ba139c9eb20eefc1": {
-        "value": "Неонатологія",
+    "ca0c63212c91035a46089437e12620a808ca40c94e334f192af89e736fa8bc10": {
         "name": "Неонатологія",
         "subcategories": [
             "866f63d9c1e46ccf3dbedacfa44cd3c45a4d78b15ab4d30d1eef4b4aa08d5cbe",
@@ -622,8 +597,7 @@
             "c9d3ab78df40784d94ee15de3ea23159790976c668f9f370cd6bcd587ba875c9"
         ]
     },
-    "45b2ba1b4d7ccf769eb74bd0c5ec4b433eb1e331f3201f44d0d1ab914a4b95aa": {
-        "value": "Нефрологія",
+    "fbc11b34072b670cb651bea12bd683cf7d37e432a37eaf8b3d1f99b79e1d2a11": {
         "name": "Нефрологія",
         "subcategories": [
             "bb34482b749282fecda2be8b6accf4bd251f28f11b9bc15d85c09a5dad752624",
@@ -633,8 +607,7 @@
             "618ec7ae4b11f766f475938ec7fcd7924c629ae7e4fa0675bba3726588392727"
         ]
     },
-    "b358add41b22c7b93e25fbac5f5c598d9b86c7c6da2291039faa1e559c169a6b": {
-        "value": "Онкогінекологія",
+    "3a2be34a944392bb96add3531ce1829a437f27712af6dc1482b6221cd8fe55b8": {
         "name": "Онкогінекологія",
         "subcategories": [
             "4aa5aed9c88a19f8d4ac930a57d87e49879b261844719113f593c65ef0a1fbbb",
@@ -642,8 +615,7 @@
             "beefd97a6e3a8ed28dc717de4da792dbd21ddece63008c91b1fa09744648f553"
         ]
     },
-    "87506ed852b3d36815f0d8b0c4a7e777ec460d79c934a15fba459a1279d3e20b": {
-        "value": "Онкологія",
+    "2aada14999f9e55d049d9011cbe10871bd5c65adca88ead3ca68aaa816aad728": {
         "name": "Онкологія",
         "subcategories": [
             "e478b794a9a7271d11ec126c8f7bf5e84e16e0435eed55b7e4bb9bc7220b413f",
@@ -696,8 +668,7 @@
             "834ecb8bdfa2ea99339187b80f78a5bc84841f8fcd1e43562b2d0c4c51fb8a6a"
         ]
     },
-    "401087d9582ffcf34ee0f8ee6a066921ccb1681cd8a8639e9c22fdae40eb2403": {
-        "value": "Онкохірургія",
+    "d1cfb8582c2951b7b36893091ea4bad22574d6ee1fafa80a2ebcbb47db451d7b": {
         "name": "Онкохірургія",
         "subcategories": [
             "e478b794a9a7271d11ec126c8f7bf5e84e16e0435eed55b7e4bb9bc7220b413f",
@@ -726,8 +697,7 @@
             "a7514abcfe2edec96224b999346275454b32591e7f4e16cff09d006ecc24672c"
         ]
     },
-    "ef1200e1d8b82a401c78ece5173c8c2758aee8c3ef1abfb7447681d7fe1b7b26": {
-        "value": "Ортодонтія",
+    "ef1848bbb17453966d28721f5d2bf60b4343d5e9b056e8895e27abf0302f518c": {
         "name": "Ортодонтія",
         "subcategories": [
             "aaf4cf910a20431cf97b66d1886a6af790a033e3b4856dfa6676dd94aa2d8e37",
@@ -735,8 +705,7 @@
             "ebf626ae5fcb6ed2afa52eff36659b45a39e85734c8360a5691924f1c764730b"
         ]
     },
-    "1e586932aac4eb47b015846805af897e428cd1e4edb8e55256e0b09de6ac5449": {
-        "value": "Ортопедія і травматологія",
+    "6c0becc142549683026607299276f4c5a165fd41e9af8a29fae4da5ac4dd6a58": {
         "name": "Ортопедія і травматологія",
         "subcategories": [
             "a01f092b1e5d30691489d3be197fde96011f7220387b0a2f9fc5460bf85f5752",
@@ -754,11 +723,11 @@
             "8819d254ed17bf93a2fdb4fb17acb65359123dff4fdb3d32180d2b1d7db8a121"
         ]
     },
-    "324545fdc2bd651de6a533842546f20674d846f13a9ec3d0b352a4a6d0600a21": {
-        "value": "Оториноларингологія",
+    "c092f6e226dd77c5383dd007e7687d62e65a0c08ce8e50ea0e13d9a4fc79f499": {
         "name": "Оториноларингологія",
         "subcategories": [
             "5918b72aafbc3c118bf264881cb2678cb54ece434b4e2fca9030033360fd30f4",
+            "cb97508498ebd1d60a9b05335c63adda14bda4934ffb4975eb80b6f0089bfddf",
             "f008e2e470090512ef8ebbdd9a266a6b73d21a527d363fb75295e1c2fee5c138",
             "d53f3b70fb028e8f30f4ad2ebf8a0c6be3ed75b6d407f9f06e84b1c4f50e54cb",
             "9a30baf0363de21ba4998edaec15609e6f042837db76e695e580f976bdd60d51",
@@ -773,12 +742,12 @@
             "40c5aa6a24d8e8ec2fb8d10a622dc9e41d606ad59eb74b98377ebfdc49f8df69"
         ]
     },
-    "0da8f8f559370eff64194fdbb17cce799f66d09af30e8a08f3740a471c6b6a7c": {
-        "value": "Офтальмологія",
+    "bcd359fe1daea83acda667604692c2c8d0569f009ff9e4e1a6e4124a740750ea": {
         "name": "Офтальмологія",
         "subcategories": [
             "5918b72aafbc3c118bf264881cb2678cb54ece434b4e2fca9030033360fd30f4",
             "53128c8f9a76e0930d18d72c9f8a77a81a295006cd8484a73e20c39c77daa2aa",
+            "cb97508498ebd1d60a9b05335c63adda14bda4934ffb4975eb80b6f0089bfddf",
             "d2c2dd7167395e445bbaa9d0896777b17ca60e233319c0eacab9992af2e17453",
             "8a4f189df657ef0aa61beb8fa248f14eda1ec6f42d7734878f76e3d3cb2e1050",
             "7d27ffdbf6fc3a3e4a9e5e2912fd200ca7e4eb3e0fcb166b122f90b25f7c52e5",
@@ -789,8 +758,7 @@
             "750fc1569361c8bad9eb904fb18954616f47337c3191d3563b6d592f3a4983fd"
         ]
     },
-    "49bcf711c5c050d0e1ea1f4d99b4e3a3373b5d9069f8497f16b18abffdb3c457": {
-        "value": "Педіатрія",
+    "12f9e4d5829b47c4e9c56e993afdb853cfa1dcaa0d7a9b5f418a50cb4429b555": {
         "name": "Педіатрія",
         "subcategories": [
             "bdf66fb35d4d650178f42c987a152f59bfae295dfd8077aec509ace77e6d6998",
@@ -859,8 +827,7 @@
             "8819d254ed17bf93a2fdb4fb17acb65359123dff4fdb3d32180d2b1d7db8a121"
         ]
     },
-    "ff077bb25c92f62f7739c61966cdb0f6fe41dd5e5dc4c90b65a1e4dc1fe50f03": {
-        "value": "Проктологія",
+    "f52665cb91a23331606cbe701c95cba107c67d1366d1051bdc7e8468c1953a3b": {
         "name": "Проктологія",
         "subcategories": [
             "e478b794a9a7271d11ec126c8f7bf5e84e16e0435eed55b7e4bb9bc7220b413f",
@@ -868,8 +835,7 @@
             "5fc7fae5624e565c0e3375a0ea77897c52a53df41a32d1b06bd1f63d8ca4ff69"
         ]
     },
-    "d0880455d2c673358583bc8dc731759f7355e34865348b469482212d14d8307b": {
-        "value": "Променева терапія",
+    "8cec7195c2f715c9ee2b3786ada6df20224fa820eb3f05fa93c0948963985929": {
         "name": "Променева терапія",
         "subcategories": [
             "e478b794a9a7271d11ec126c8f7bf5e84e16e0435eed55b7e4bb9bc7220b413f",
@@ -893,8 +859,7 @@
             "3cc7252546862ddfdda72be41424633c064a38baa2eab31425daae94470f5177"
         ]
     },
-    "003d40b0b6b75d9e7928bc6ff13a558503fdf0c243e1bbbb119373ec64e21c6d": {
-        "value": "Професійна патологія",
+    "d350d653aa9e92e827396d0ec0f5a768dee76ef3fb75a91564ae54b2d70f7880": {
         "name": "Професійна патологія",
         "subcategories": [
             "571e9983a04213c9b07a108f6a8326c1ff3baf569dd10a8f416a1b90938ec2c2",
@@ -902,8 +867,7 @@
             "9bed25bd90a32cfbdab91c5ebf28a20a27b71e0655257532347341ed33f38b77"
         ]
     },
-    "192805c94dd9f667492519d7a620252685304edd49b7e857d12c15a5d3a05b10": {
-        "value": "Психіатрія",
+    "eeb8d1a308ac5bc8a0f1347d3d68e2dc3899835982335b96e407f4944d275434": {
         "name": "Психіатрія",
         "subcategories": [
             "ba7e7fc456976b188cf787ba1951bfdea50becb41f18dfdd8507238c7831d33e",
@@ -922,12 +886,12 @@
             "3ad137f8ec1043d1bb83d69551c6f7503e7c7086d79ed916b7c2d892b6f9e8ac",
             "b9bc82567923df83215d0d0c1afac5f8258e7f7348b2cd2900b1ef61916c871f",
             "c93dd2f7b9a718e9a4941ab07db8d030a7de1836d4e2cc3ac9ee3c15aa084f76",
+            "2e882e334dd25e0570c26a7607532e20137085770b16c251908544052287c63b",
             "c9d3ab78df40784d94ee15de3ea23159790976c668f9f370cd6bcd587ba875c9",
             "c90f77e0a91081028a1f256ae10e79a0f0d0db70783ca7d9dc5776fc5ee4da29"
         ]
     },
-    "616645395e38b3be158e3842f303f5480488c7b696db4e49016ece90b758bcfa": {
-        "value": "Психотерапія",
+    "b8fd2e28852aa8a2096e45a84e911cce6556e9c6eef8bc08560659e48d1a21e7": {
         "name": "Психотерапія",
         "subcategories": [
             "ba7e7fc456976b188cf787ba1951bfdea50becb41f18dfdd8507238c7831d33e",
@@ -941,11 +905,11 @@
             "99b3f802cfd6f2ef6b9de4608d62d07b614cf34de1fe2ac8997dd49d8bd8c6d1",
             "9bccb136b69c0775da4160bf2e8a3f3356e39262143ac073363b898adead53d8",
             "3ad137f8ec1043d1bb83d69551c6f7503e7c7086d79ed916b7c2d892b6f9e8ac",
-            "b9bc82567923df83215d0d0c1afac5f8258e7f7348b2cd2900b1ef61916c871f"
+            "b9bc82567923df83215d0d0c1afac5f8258e7f7348b2cd2900b1ef61916c871f",
+            "2e882e334dd25e0570c26a7607532e20137085770b16c251908544052287c63b"
         ]
     },
-    "705b52fb3a923f0932f91522b7740b12359c6e6bfa5d6a9365692f0db2797e5a": {
-        "value": "Пульмонологія",
+    "2f526f5e8bec8d8e4172e427fe5bebaec4871def6f40ca77475ace8dd088064e": {
         "name": "Пульмонологія",
         "subcategories": [
             "571e9983a04213c9b07a108f6a8326c1ff3baf569dd10a8f416a1b90938ec2c2",
@@ -963,8 +927,7 @@
             "9bed25bd90a32cfbdab91c5ebf28a20a27b71e0655257532347341ed33f38b77"
         ]
     },
-    "069e07e84271cc23c1cc9eb7986fd706c150f2b23e24cea784be27e96381bba0": {
-        "value": "Радіологія",
+    "f22a5de92864318ed5d94f93b2bea97e6eb3bee00c4a7e299751ad5aed304819": {
         "name": "Радіологія",
         "subcategories": [
             "e478b794a9a7271d11ec126c8f7bf5e84e16e0435eed55b7e4bb9bc7220b413f",
@@ -994,8 +957,7 @@
             "834ecb8bdfa2ea99339187b80f78a5bc84841f8fcd1e43562b2d0c4c51fb8a6a"
         ]
     },
-    "f7324122c3d6ae329df73c0978a5e48a49996cb39435b687e3d35b5ca2df7e0e": {
-        "value": "Ревматологія",
+    "f933703eb0d360636a8b773955e0e5402fc1a488edec605283e7c78028f20440": {
         "name": "Ревматологія",
         "subcategories": [
             "a01f092b1e5d30691489d3be197fde96011f7220387b0a2f9fc5460bf85f5752",
@@ -1009,15 +971,13 @@
             "8819d254ed17bf93a2fdb4fb17acb65359123dff4fdb3d32180d2b1d7db8a121"
         ]
     },
-    "40068404d91152871e8997eeeea7ad652bd3561b78fa2c015920050dc2710f16": {
-        "value": "Сексопатологія",
+    "b6067f5b933ede7f8cb916b3f1e253e9cdefdbdccbd680e4ca560d67becebfce": {
         "name": "Сексопатологія",
         "subcategories": [
             "f0c18966a5bb0e4f619cef54ddaba6dda00c526637a25eba0bcd79b5111881ff"
         ]
     },
-    "91a499c71687bb61f3e4b086663456713005d54604db84954d7d6661d636d066": {
-        "value": "Сестринська справа",
+    "8b21867a6d378ae9ee2b9a7db4456e364b614ddf477437dc499c3a5bf8af8894": {
         "name": "Сестринська справа",
         "subcategories": [
             "d355c6c1158d5b8d1e0094c89d5456ad4f04de6911c18ca22a97c9cf943ece03",
@@ -1025,8 +985,7 @@
             "3ad137f8ec1043d1bb83d69551c6f7503e7c7086d79ed916b7c2d892b6f9e8ac"
         ]
     },
-    "2f5fdbe2892587b65ac6c7ca37593b726b405ad334f5f6860056436a7b30e649": {
-        "value": "Стоматологія",
+    "f06c32f47114a135d9ea749c22edb92338cae8614257b8b6c62ad3c96f6f8172": {
         "name": "Стоматологія",
         "subcategories": [
             "76a4a789f380c742244f7decb2fa726cf662ccf42b73503251dfb27f69b87ae3",
@@ -1039,17 +998,16 @@
             "aa8741a6d4edcb39f12afeba4250c44a7607af8aa45c07f0ef5302537278f20b"
         ]
     },
-    "9ba1cb33b994f0c5edffc37b76559df5cdafe34182ff695b36b105f5de9f64c0": {
-        "value": "Судинна хірургія",
+    "45801a7400732526d052086da54da56523543fb85100d88e1abd18cf3ea5e437": {
         "name": "Судинна хірургія",
         "subcategories": [
+            "cb97508498ebd1d60a9b05335c63adda14bda4934ffb4975eb80b6f0089bfddf",
             "63faf84d7d3800224d1280a1aead6eb12fa8aeaf0ba27467f9591d070eb7d093",
             "d355c6c1158d5b8d1e0094c89d5456ad4f04de6911c18ca22a97c9cf943ece03",
             "3781775e263974e2cf56ea0f658ae3e61d547ce1e4dc43ac1a7b084faa430749"
         ]
     },
-    "e9a27164b487c2ec5761462a938e85bc575c1a117db1c21931f60e22ab881052": {
-        "value": "Терапія",
+    "58042512a46becdecda64d33fb9fd6048c857417ae7cef6acbef5afbeee600ca": {
         "name": "Терапія",
         "subcategories": [
             "1efc40f7aadc1a13d29be4443310a72c645fdb52ed451e472ce829b1d8eede0e",
@@ -1096,15 +1054,13 @@
             "f80bda8afd98d4d2983b12a38016f0b00c378cb382bc6634b0aa72edf1a831fb"
         ]
     },
-    "506d14a5821a4df0581658f31fc73dca6b39349d2c71021a91d3336e7251c60b": {
-        "value": "Трансплантологія",
+    "5117c7a6ba781beb45c0a7566b34bee98b6e35078dd44f2587e49e34d9906402": {
         "name": "Трансплантологія",
         "subcategories": [
             "7975ca57e80bbc63d1fdbab65ea967f62e9bdb528352d540aa37d8b96097a5d1"
         ]
     },
-    "41630a575336a1be857351ae94b1a0ba09ef5c4656cfc9d57607ed1d47e44662": {
-        "value": "Урологія",
+    "ebeed9ac3cf77214b32a2a7dcb307b4ceee6237ace9954e498faad8e28dcd70c": {
         "name": "Урологія",
         "subcategories": [
             "bb34482b749282fecda2be8b6accf4bd251f28f11b9bc15d85c09a5dad752624",
@@ -1115,8 +1071,7 @@
             "78f339a7cb283b345405b9d7ec95afaaecf3d702fba527d6e84469eab23c72e5"
         ]
     },
-    "060b966b09a6dc04561dbd96646fcf271ebdb6d748d7ad1067467ba36825b244": {
-        "value": "Фізична та реабілітаційна медицина",
+    "435ef8f1dc09731c2df94e298fd6e07ace7ab8db5beca6e75135c101814205f6": {
         "name": "Фізична та реабілітаційна медицина",
         "subcategories": [
             "a01f092b1e5d30691489d3be197fde96011f7220387b0a2f9fc5460bf85f5752",
@@ -1134,8 +1089,7 @@
             "618046c8181cf1dab6da361593c677c40c9a4d28a38770314e6be3bb563a5110"
         ]
     },
-    "d06c71887a383983ee2836cfd01141c6899d28f3a53c06a79f9d85a446e944f7": {
-        "value": "Фізіотерапія",
+    "c52276ed525d8bd390308fd4e48313ad442fa7114d4ea9d02a4692cdf30be090": {
         "name": "Фізіотерапія",
         "subcategories": [
             "2a8cf9e5f65bbf9266799971156cb8aeec3c62524a494c1c4fa577f0909c49bb",
@@ -1144,21 +1098,20 @@
             "3ad137f8ec1043d1bb83d69551c6f7503e7c7086d79ed916b7c2d892b6f9e8ac"
         ]
     },
-    "25b75b4db43e5cd62733764a7960cfc9c32011b145941bc40fcc2a7ce85a69f9": {
-        "value": "Фтизіатрія",
+    "dbdcc133831554a1f4b89cbb25456bcd5016d53c23bf5ec064f189388164b994": {
         "name": "Фтизіатрія",
         "subcategories": [
             "57b15ec7802e19ce5214038824b022c99c1e3bd931239c0547e88a6b5afdff9c",
             "930d8f4c8cb012c6a2b22250efdc064e9c381e0385cacb56dc53ba323eef1f85"
         ]
     },
-    "aa5eda7d35bb0211cd849b5fd721e45b7b05aed26388898ebbe2bc1dce4fe36c": {
-        "value": "Хірургія",
+    "dc7cf7a6680376b490b45e00f3395e4e3fe9735c414ec5c6088f8c973271be00": {
         "name": "Хірургія",
         "subcategories": [
             "1efc40f7aadc1a13d29be4443310a72c645fdb52ed451e472ce829b1d8eede0e",
             "4aa5aed9c88a19f8d4ac930a57d87e49879b261844719113f593c65ef0a1fbbb",
             "53128c8f9a76e0930d18d72c9f8a77a81a295006cd8484a73e20c39c77daa2aa",
+            "cb97508498ebd1d60a9b05335c63adda14bda4934ffb4975eb80b6f0089bfddf",
             "866f63d9c1e46ccf3dbedacfa44cd3c45a4d78b15ab4d30d1eef4b4aa08d5cbe",
             "2d7cbce55903a7cb437dd18c0c583642425b14a72ebdd2801c5159ebeff3723d",
             "2ed28a51aa33fd410e28e51d463edb5997ea0057e72293f417ef07ceacfef183",
@@ -1189,8 +1142,7 @@
             "f80bda8afd98d4d2983b12a38016f0b00c378cb382bc6634b0aa72edf1a831fb"
         ]
     },
-    "72137a99f311164116293a81f256fb81475a9408c134e30456583cd0cb06f35b": {
-        "value": "Хірургія серця і магістральних судин",
+    "79bad9ada6c13595b748c963c29df04810df2bb688abfcb46fdb47a7b40f3f2b": {
         "name": "Хірургія серця і магістральних судин",
         "subcategories": [
             "3b014b589777eeaf776547f40334428345bf3218e270a9997e13e32294c1ae56",
