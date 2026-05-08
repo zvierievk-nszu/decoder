@@ -14,5 +14,13 @@
     "npa": {
         "info": "Постанова 1808",
         "link": "https://zakon.rada.gov.ua/laws/show/1808-2025-%D0%BF#Text"
+    },
+    "nk025":{
+        "info": "Dashboard",
+        "link": "https://nszu.gov.ua/dashboards/klasifikatori-mkx10-achii-icpc2-ta-mkf"
+    },
+    "nk026":{
+        "info": "Dashboard",
+        "link": "https://nszu.gov.ua/dashboards/klasifikatori-mkx10-achii-icpc2-ta-mkf"
     }
 }
