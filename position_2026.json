@@ -1,0 +1,1432 @@
+[
+    {
+        "code": "P1",
+        "description": "Генеральний директор",
+        "hash": "5f816e7fc65243c7f91f70be2fe43635be2da648b5f890f86a343990ffd3d27b"
+    },
+    {
+        "code": "P10",
+        "description": "Лікар-терапевт",
+        "hash": "71a95766075f1e0fc18c29cd63be8c1721b3b98601a902e768f1274adecab8bc"
+    },
+    {
+        "code": "P100",
+        "description": "Лікар-паразитолог",
+        "hash": "bb3af73bbdd0aa563d9bb512956ff015cd14d58ceb2e2582b6835df3181d5adb"
+    },
+    {
+        "code": "P101",
+        "description": "Лікар-патологоанатом",
+        "hash": "fa2d5fce0fde54dc572820f93e9b961703759fbddeffbf412d9d4256f8c3d447"
+    },
+    {
+        "code": "P102",
+        "description": "Лікар-патологоанатом дитячий",
+        "hash": "a318e5fe1f82dd728b11cb85408c777951ddb1b77c9a1dec7d2b8089475bf861"
+    },
+    {
+        "code": "P103",
+        "description": "Лікар-педіатр-неонатолог",
+        "hash": "19a1e2f7cefaefb9828e62dfac717cf1c1ee05296324a3dbf8bbc50770c213ac"
+    },
+    {
+        "code": "P104",
+        "description": "Лікар приймальної палати (відділення)",
+        "hash": "fc8e135ba24a234ff51a9ac377dbdf114e1c2e1aead43dd811dd57de5dbc9032"
+    },
+    {
+        "code": "P105",
+        "description": "Лікар з променевої терапії",
+        "hash": "1c8f5e5661b2c70672f4594c8225b7747e2f025921537d56cbc7937d5fb2de7a"
+    },
+    {
+        "code": "P106",
+        "description": "Лікар-профпатолог",
+        "hash": "1076cc32c5f2c7df07f4708a91e58134afd8d9f2b886137fa49155839a0fca87"
+    },
+    {
+        "code": "P107",
+        "description": "Лікар-психіатр",
+        "hash": "1b301d64727eb597884c37adc580812275d924927825e1f8936d8c415a63b5d7"
+    },
+    {
+        "code": "P108",
+        "description": "Лікар-психіатр дільничний",
+        "hash": "8a43c826b636e1db85273b10f8cea52e89429bc1524d66a68a7ea6683718a8f3"
+    },
+    {
+        "code": "P109",
+        "description": "Лікар-психіатр дитячий",
+        "hash": "95a3813d317abb62c365a854023a58c7b8fa12e57a3c8657924c54aa59b5403f"
+    },
+    {
+        "code": "P11",
+        "description": "Лікар-терапевт дільничний",
+        "hash": "ed2f5f0f0b82fe9822d385f7bf6ea3a5adb699ed026430a352b5e9f182aa6e31"
+    },
+    {
+        "code": "P110",
+        "description": "Лікар-психіатр дитячий дільничний",
+        "hash": "a28196eb112257c7f5093aedcfae6dad0a98a1bba13cd52aabebf0d195c73b0a"
+    },
+    {
+        "code": "P111",
+        "description": "Лікар-психіатр підлітковий",
+        "hash": "71fe38dc8ab158f6a468eecfbf9ffc05510a5c59752ef227b864ba9cc2fe6cad"
+    },
+    {
+        "code": "P112",
+        "description": "Лікар-психіатр підлітковий дільничний",
+        "hash": "c1b1735937293379b73707b4ed2820a96c95e7cef7a37942b2c39c6de19bb870"
+    },
+    {
+        "code": "P113",
+        "description": "Лікар-психолог",
+        "hash": "f80df0d6dcf892896d74409c0d71ca50c346f9944390ba7e267a9bf4a8a36d47"
+    },
+    {
+        "code": "P114",
+        "description": "Лікар-психотерапевт",
+        "hash": "d88c918cc0d5835756b256ff77965aae541330a347907f114a6b92bb874256e0"
+    },
+    {
+        "code": "P115",
+        "description": "Лікар-психофізіолог",
+        "hash": "c31fffc829b5739edfe943b641cc24d0d85dd996792ee0b56e438ff7c8926553"
+    },
+    {
+        "code": "P116",
+        "description": "Лікар-пульмонолог",
+        "hash": "c945f86d9b8aefde7f9d9995057c73a119c545880c25ff36600b155953fe2dff"
+    },
+    {
+        "code": "P117",
+        "description": "Лікар-пульмонолог дитячий",
+        "hash": "ecb4abaebc6a25110609aa82a2c2a3bb60bd25bb594ca6e131996fc2375649fd"
+    },
+    {
+        "code": "P118",
+        "description": "Лікар пункту охорони здоров'я",
+        "hash": "aa9b81c34791e6b0bc899ba9823e841f97c095a5fc8dea12b391c1bc20a07121"
+    },
+    {
+        "code": "P119",
+        "description": "Лікар з радіаційної гігієни",
+        "hash": "d217139f439c385deed26f7c4f13512438a950e1ed0c2ec30d55440250af3436"
+    },
+    {
+        "code": "P12",
+        "description": "Лікар-терапевт цехової лікарської дільниці",
+        "hash": "708e54c7c31a796a3124f6b698ea7e9742075d842954adfc8f7be929af093cfe"
+    },
+    {
+        "code": "P120",
+        "description": "Лікар-радіолог",
+        "hash": "8ee42a12001527dc052eb2ec54d5466eb7634cc99fad2f166e6aedbc967dcd73"
+    },
+    {
+        "code": "P121",
+        "description": "Лікар з радіонуклідної діагностики",
+        "hash": "a663557866355248c948ddadef6fa6eafe0d9cac62416bed31d4db221010c02f"
+    },
+    {
+        "code": "P122",
+        "description": "Лікар-рентгенолог",
+        "hash": "e1688df57d910192e76ef52d76fe658c34a987fb3ea3893a8bd9c80ee1adbcec"
+    },
+    {
+        "code": "P123",
+        "description": "Лікар-ревматолог",
+        "hash": "96c53c7ae35955af0b4bc3cf095dbe0724ba3cf2e87cb13a012cc676b312e590"
+    },
+    {
+        "code": "P124",
+        "description": "Лікар-рефлексотерапевт",
+        "hash": "9363483c7e4933963986119a483f06fe4cf78e5bd94d4f5208d3893330e4a904"
+    },
+    {
+        "code": "P125",
+        "description": "Лікар-санолог",
+        "hash": "e649726e8e89e50e497c5bd85f0844120753e947cac3e0bffb7e1c020bb66242"
+    },
+    {
+        "code": "P126",
+        "description": "Лікар із спортивної медицини",
+        "hash": "58ff25ca77c9ee712e2e31766372403f527ff3f686874468678a1b8fde6cda1b"
+    },
+    {
+        "code": "P127",
+        "description": "Лікар-сексопатолог",
+        "hash": "1239badfea2230ac85377647656ad0af2cb3f6260416eda0eda37df69735b7ed"
+    },
+    {
+        "code": "P128",
+        "description": "Лікар-статистик",
+        "hash": "f223a11e88d1319b5d6cd629063e418872b59aa86efcd936606fdfec760f4e7a"
+    },
+    {
+        "code": "P129",
+        "description": "Лікар-стажист",
+        "hash": "ebdb524d248861632b01742a2ace505dd4b01c51c66fb4f7f8a0cc1078e425e0"
+    },
+    {
+        "code": "P13",
+        "description": "Лікар-терапевт підлітковий",
+        "hash": "443c0ed0de9e2496537b5a3eb8a06998491ca0e8d0c87d4dfcee2845ca1f3c64"
+    },
+    {
+        "code": "P130",
+        "description": "Лікар з медицини невідкладних станів",
+        "hash": "7712aa4779f593775537d978cd9a1d308b5c53c255a047272941770f7afe222c"
+    },
+    {
+        "code": "P131",
+        "description": "Лікар-стоматолог",
+        "hash": "a4a4e9e61377e0f495039d8b47b4ce6e21b8e5b0a708da55da0a523d1761f70c"
+    },
+    {
+        "code": "P132",
+        "description": "Лікар-стоматолог дитячий",
+        "hash": "25898aa409fb0485515204e72d3dc07f40956922280478ba864ad0ebe6505608"
+    },
+    {
+        "code": "P133",
+        "description": "Лікар-стоматолог-ортодонт",
+        "hash": "efb6d3d56223110c7415d226c573104b279c6b678949aaee4cc40c7b41051ede"
+    },
+    {
+        "code": "P134",
+        "description": "Лікар-стоматолог-ортопед",
+        "hash": "5a6e8aa2d78fbcf24b45b42df06d11045c6f0e0694bf16511a51b56e42c6706a"
+    },
+    {
+        "code": "P135",
+        "description": "Лікар-стоматолог-терапевт",
+        "hash": "ad89d0e8fa5c65b9981a35a3ffec611a81b1c17d5918953b4c7582dbd193b9a9"
+    },
+    {
+        "code": "P136",
+        "description": "Лікар-стоматолог-хірург",
+        "hash": "77b408ab9367ebf78d61810a3ced4845d57ed665863e021e94e756308e929c65"
+    },
+    {
+        "code": "P137",
+        "description": "Лікар судновий",
+        "hash": "b4646159c673c96cbcfa38d4af84d6b3f6ae178f6fdb7400edbea579acac39e1"
+    },
+    {
+        "code": "P138",
+        "description": "Лікар - судово-медичний експерт",
+        "hash": "9778ccfc8ec3f620c2c28505f7a492e02fd44f04d3d5215adc2d9a54ed1be2c4"
+    },
+    {
+        "code": "P139",
+        "description": "Лікар - судово-медичний експерт гістолог",
+        "hash": "f917b337b479880ec45184c660d01da0c1db3631496fb0f09e97d02316fe89cf"
+    },
+    {
+        "code": "P14",
+        "description": "Спеціаліст відділу кадрів",
+        "hash": "9e5d381322c5566b5cc9d4be5ff66ef80889dc40b264de9fc6369058850ca5c9"
+    },
+    {
+        "code": "P140",
+        "description": "Лікар - судово-медичний експерт імунолог",
+        "hash": "ea3af16c75c17835e8fd611e8f9977b30fab11106b97108552d12f90f7579758"
+    },
+    {
+        "code": "P141",
+        "description": "Лікар - судово-медичний експерт криміналіст",
+        "hash": "61e74af33c53449cd5c944bd9d037851f4aca4cf0344c27eddb2a5cf9c786102"
+    },
+    {
+        "code": "P142",
+        "description": "Лікар - судово-медичний експерт цитолог",
+        "hash": "97cfece52a22f7f0847943cdee3797765b1ba73fc4c193ffb1881c6fe6b6ff3e"
+    },
+    {
+        "code": "P143",
+        "description": "Лікар - судово-медичний експерт токсиколог",
+        "hash": "e5d71c0439844d0a697699f0e29fa6e9d5bf432ae69ec33bd3be9a5b9027fde7"
+    },
+    {
+        "code": "P144",
+        "description": "Лікар - судово-психіатричний експерт",
+        "hash": "028f4194790d390ec236bf94e5c692eea6c9f569688fad6aa5f983d5a48bb2ea"
+    },
+    {
+        "code": "P145",
+        "description": "Лікар-сурдолог",
+        "hash": "9e30d16203d68bcfc2b94e8ba0bd20f0ba0d63e729ba8cfab5287ed1de578487"
+    },
+    {
+        "code": "P146",
+        "description": "Лікар-токсиколог",
+        "hash": "99b18a7ef4a0f2ee7d0f5fc61787a137c037d4ef7b9c26f3520f4a2bcb3f1006"
+    },
+    {
+        "code": "P147",
+        "description": "Лікар-трансплантолог",
+        "hash": "eb710f23742572458eeb623e3451c53b012b1d2a382f6cbd87934f3c216931a3"
+    },
+    {
+        "code": "P148",
+        "description": "Лікар-трансфузіолог",
+        "hash": "75ca9b5a27b68fb6f15b33f5455ea83d67833bb5498a5416812dc0999fbca617"
+    },
+    {
+        "code": "P149",
+        "description": "Лікар з ультразвукової діагностики",
+        "hash": "11d96cab1763706ebe99439d6249cb88b7a964f4c8b787ae6a0c270cbcadd9c9"
+    },
+    {
+        "code": "P15",
+        "description": "Працівник реєстратури",
+        "hash": "af38e6ac9e89ab6a709d6aa7779e5074d67a594fcfc64dc113680b873ecd9fb0"
+    },
+    {
+        "code": "P150",
+        "description": "Лікар-уролог",
+        "hash": "30be30d0f1eccb000f6f2f501e1c81733e59123910df47e21cfb0e653e05c244"
+    },
+    {
+        "code": "P151",
+        "description": "Лікар-уролог дитячий",
+        "hash": "a9088d9fad67ca609a1ee6622691ff6f3be5a73eb6a84bd55a72f44b94249e6a"
+    },
+    {
+        "code": "P152",
+        "description": "Лікар-фізіотерапевт",
+        "hash": "fc429bc56582009cbbfe65b329a1572d6724b9f254be21a0f645abdc2e64cbc4"
+    },
+    {
+        "code": "P153",
+        "description": "Лікар-фтизіатр",
+        "hash": "fb619678b24e5a2482800aa11a9095a0b8616e3644d8c815e173653b1762d1a9"
+    },
+    {
+        "code": "P154",
+        "description": "Лікар-фтизіатр дільничний",
+        "hash": "648e8f72ee1215d05fc8245c5046df8ac37da0ef18bc3236b60dfe4df07b01e8"
+    },
+    {
+        "code": "P155",
+        "description": "Лікар-фтизіатр дитячий",
+        "hash": "86c2591dc2acbc7d32cc4ea3c9a518ad6b26f28d22fffd5387c27f435b8e898f"
+    },
+    {
+        "code": "P156",
+        "description": "Лікар з функціональної діагностики",
+        "hash": "ec4ad117b1eb45d02e4e23229e2b1c83392380b0930576f7cca73d71e79fb412"
+    },
+    {
+        "code": "P157",
+        "description": "Лікар-хірург",
+        "hash": "0d3d46059bb89892b07e21615d1d410b6d09c10f123747359be705939bbf5a4c"
+    },
+    {
+        "code": "P158",
+        "description": "Лікар-хірург дитячий",
+        "hash": "f559fd419bce887e7431cbe17e5b5c78e095af5b749ba991e58b836f85bceb1e"
+    },
+    {
+        "code": "P159",
+        "description": "Лікар-хірург-онколог",
+        "hash": "daa943d5014d577667cbbcd19acd0df0f4af32a140829d5361ca31a12df2621c"
+    },
+    {
+        "code": "P16",
+        "description": "Фармацевт",
+        "hash": "258806634c7b2c6da39235b52d321d377f72c4bf53658f54f0deb9a45f3e62c1"
+    },
+    {
+        "code": "P160",
+        "description": "Лікар-хірург судинний",
+        "hash": "142b4c584a6a75b1e663433410ba889f78a1728476d924abdf1ee6ef95306587"
+    },
+    {
+        "code": "P161",
+        "description": "Лікар-хірург серцево-судинний",
+        "hash": "fbd55f6d5cfb802a7907cbb7e48d4ecf1a148270536629f3e0898577e3396e41"
+    },
+    {
+        "code": "P162",
+        "description": "Лікар-хірург торакальний",
+        "hash": "c2b6122bc1b9f39c7bbdb56f242a9b67444f961c990aa4a05b6726a65a61fc7f"
+    },
+    {
+        "code": "P163",
+        "description": "Лікар-хірург проктолог",
+        "hash": "ecc9ce9ded498708ba78cd5737ad4dc354ab78b4c0287de87ba315db69343c8b"
+    },
+    {
+        "code": "P164",
+        "description": "Лікар фізичної та реабілітаційної медицини",
+        "hash": "b9ad50f57465d40606e7910b4ffa4425b4e72afa178af274b84386182a42b3ec"
+    },
+    {
+        "code": "P165",
+        "description": "Ерготерапевт",
+        "hash": "7fa8414827775fdde434e8bc3ccbf30efcee2d46162843c47ff1f51fced7ad5e"
+    },
+    {
+        "code": "P166",
+        "description": "Фізичний терапевт",
+        "hash": "af6ad9f1adcb8d4ae2c516df37caf1a4ee0606d59f1f1d0c28c491dc10078920"
+    },
+    {
+        "code": "P167",
+        "description": "Інструктор з надання догоспітальної допомоги",
+        "hash": "e35c317ba62b5c4b17754b86f26b3ef6169e4f7495ce598f23a2fb1199e9e54d"
+    },
+    {
+        "code": "P168",
+        "description": "Логопед",
+        "hash": "b7dd880740a030751c28a5856a350db77e43fe81d452ca2e3c202e3d3155786f"
+    },
+    {
+        "code": "P169",
+        "description": "Рентгенолаборант",
+        "hash": "57ddf9d27a2add3b70ae484b76d96d67f3561d416ee2a07ad335c12852a38b34"
+    },
+    {
+        "code": "P17",
+        "description": "Лаборант (медицина)",
+        "hash": "b7acc0693194cad4e03072827c8e7a14e43f0a34a0f71bc1ae64092d4ecb0cc8"
+    },
+    {
+        "code": "P170",
+        "description": "Технолог з лабораторної діагностики",
+        "hash": "211c0846838f0dd8b1656e4db358f822948932cd721004818f35b44af1d2f9db"
+    },
+    {
+        "code": "P171",
+        "description": "Технолог з рентгенологічної діагностики",
+        "hash": "09fc2fe50f649d570da52999e76b133a3145a822a54ac3375e651f8d61ca951f"
+    },
+    {
+        "code": "P172",
+        "description": "Фахівець із орієнтації сліпих",
+        "hash": "2c4a72ff9f2eae22fee1ede8beb0c80b8a3af72d825321724eb31556da4b2328"
+    },
+    {
+        "code": "P173",
+        "description": "Фельдшер-лаборант",
+        "hash": "a75c599755dbc06c7fc4019ffa5b786cb830e8a89b534fdff20e8034c6d8909d"
+    },
+    {
+        "code": "P174",
+        "description": "Сестра медична",
+        "hash": "5a2ea06e84899292ab3d0f35042a708907e450a8af085a558869a79407484dad"
+    },
+    {
+        "code": "P175",
+        "description": "Сестра медична з дієтичного харчування",
+        "hash": "ec55ee5e9630c9ec745c1b99de37c920915caa617bf5ecb2793d80e02251ba40"
+    },
+    {
+        "code": "P176",
+        "description": "Сестра медична з косметичних процедур",
+        "hash": "239214be57071fd3de59753b47bf19c5ba330964527235b9130ae5b3d7a729c8"
+    },
+    {
+        "code": "P177",
+        "description": "Сестра медична з лікувальної фізкультури",
+        "hash": "c2c3700f9f9647b00387ef14bb4749c5e30b11cac3fe2d19b04e0d99748cbba9"
+    },
+    {
+        "code": "P178",
+        "description": "Сестра медична з масажу",
+        "hash": "5bc173bccf6ba49447af95e6c7d94269f912883d2133de5d191ebc370f69a8b4"
+    },
+    {
+        "code": "P179",
+        "description": "Сестра медична з фізіотерапії",
+        "hash": "dfe81a1c59d44cbce7ac836f353b75d8643b1390630ca18ec5ae0b8f4b9604b0"
+    },
+    {
+        "code": "P18",
+        "description": "Заступники з числа фармацевтів (завідувача, начальника)",
+        "hash": "ca942dd12c13d49c925c19251d3efd164d2d9d99cd7eb10ffce7c106bf4d08bb"
+    },
+    {
+        "code": "P180",
+        "description": "Сестра медична з функціональної діагностики",
+        "hash": "5b001ef7ac2ea0052e1a240ad90dba058a4c285042d8aa8e616a5a4b3ca2ec31"
+    },
+    {
+        "code": "P181",
+        "description": "Сестра медична зі стоматології",
+        "hash": "41b89e873863a63d2c8de5873760db3d29d30ca1edf343f380aa8bad9077a982"
+    },
+    {
+        "code": "P182",
+        "description": "Сестра медична милосердя",
+        "hash": "b77d65acf2e5261238bb038901eef4c768ce4554a4cad077b6a58ae1836a2a1c"
+    },
+    {
+        "code": "P183",
+        "description": "Сестра медична операційна",
+        "hash": "b8327cc104d23a1e283e37d176c67aea06eed313b3495c8de15ab6b2c9bfd781"
+    },
+    {
+        "code": "P184",
+        "description": "Сестра медична патронажна",
+        "hash": "b4aae4c1701f5d34eaf394d6f55b00628ba160ba3528c6969040d79e9911335b"
+    },
+    {
+        "code": "P185",
+        "description": "Сестра медична поліклініки",
+        "hash": "91820637a15deb8c851e6debbdcd2e92a94512e7688f31fd37d7b3e92b6c4bfa"
+    },
+    {
+        "code": "P186",
+        "description": "Сестра медична станції (відділення) швидкої та невідкладної медичної допомоги",
+        "hash": "d8cff608f9b678f984e804c5564e176df15da5e3d82af428ee69bb35de012875"
+    },
+    {
+        "code": "P187",
+        "description": "Сестра медична стаціонару",
+        "hash": "8b69798096673d6b89cf252fa4336cadba03d41b2d8e52e980fee4c10196640d"
+    },
+    {
+        "code": "P188",
+        "description": "Сестра медична - анестезист",
+        "hash": "b97de1ea55c099d4cceddeaec35c6f382da4238e484c4451af047ed3c42fe0d0"
+    },
+    {
+        "code": "P189",
+        "description": "Сестра медична дитячої поліклініки",
+        "hash": "72866b3976d41fb978152b1bbfb2081cd63ea64843af8ae2c87093450e50e8e9"
+    },
+    {
+        "code": "P19",
+        "description": "Завідувач аптечного пункту",
+        "hash": "f87b722534173610fc8479582e6353fdf3ae05cd3e2576c01d89681748def186"
+    },
+    {
+        "code": "P190",
+        "description": "Сестра медична дитячого стаціонару",
+        "hash": "3125fc95a4f463c8bb0a37921a37763d05e292fcac79a6f029f06f4b76442871"
+    },
+    {
+        "code": "P191",
+        "description": "Сестра медична загальної практики - сімейної медицини",
+        "hash": "8a2512818a3ce48dedbab7d27c2af6c02d756087317ad9672d53c919bde97e9d"
+    },
+    {
+        "code": "P192",
+        "description": "Сестра медична - координатор",
+        "hash": "18cb5540426803a5a7e3760a6a60f38d45fb426b5d5ada8be7d43d42ada1f3c6"
+    },
+    {
+        "code": "P193",
+        "description": "Статистик медичний",
+        "hash": "998e86b19e108d75fdd5c7ed3b547ac27acaef8e9cad77f5f036a5843f67580c"
+    },
+    {
+        "code": "P194",
+        "description": "Технік-ортезист-гіпсовиливальник",
+        "hash": "89add7107ae10279f9e4627a9ed296aedbee84f1aa231c0b3f82568801993c5f"
+    },
+    {
+        "code": "P195",
+        "description": "Акушерка",
+        "hash": "40bc83be5467db408e1daef2055a2c8843d9fe41ec25860c9e2f5d27406b30cd"
+    },
+    {
+        "code": "P196",
+        "description": "Фахівець безконтактного масажу",
+        "hash": "9f2349622aa216f4515a9ca726c312de6e483b9322760f99c7765d0f0237ea98"
+    },
+    {
+        "code": "P197",
+        "description": "Диспетчер оперативно-диспетчерської служби (медицина)",
+        "hash": "96cc733ea9b4cb72a6a52bcc6744bf2864702fa7f7c0964b0b446e55d879c649"
+    },
+    {
+        "code": "P198",
+        "description": "Парамедик",
+        "hash": "3b02fd34b68333e37c5ee600fdac4033221950913cd8805edc79307c63549024"
+    },
+    {
+        "code": "P199",
+        "description": "Помічник лікаря-епідеміолога",
+        "hash": "6631f1afbd5f069c4a2e7d0461d9358b25cbab4dae03b74a68dede7eb5902b9e"
+    },
+    {
+        "code": "P2",
+        "description": "Директор",
+        "hash": "c53eafbfd16202e6ee1ac4ea537a8139915c758d0c48c3aecb767982fc4bfe30"
+    },
+    {
+        "code": "P20",
+        "description": "Старший провізор",
+        "hash": "8937f745e83f38cb7bb164cfd39450c9bfc32d3498f9da8076827bb325f6f2ab"
+    },
+    {
+        "code": "P200",
+        "description": "Технік-лаборант з клінічної нейрофізіології",
+        "hash": "b2abdce0dfc9fbc2c6d1260997163298e53dfb73c5eec849de3c02f6ab718715"
+    },
+    {
+        "code": "P201",
+        "description": "Фельдшер",
+        "hash": "688ae2a93b2521fcfefe646fdee769867261d0bf4bb9c601eaadccbd6b18e1ec"
+    },
+    {
+        "code": "P202",
+        "description": "Фельдшер з медицини невідкладних станів",
+        "hash": "9c5410726637a420460237f4b29548518cc6b2c455f912877b71836e481fd9fc"
+    },
+    {
+        "code": "P203",
+        "description": "Фельдшер із санітарної освіти",
+        "hash": "bb1ac2f47dabf3071fe096b21ec4deaa86679b6aaaa0c62b3d29876367828261"
+    },
+    {
+        "code": "P204",
+        "description": "Фельдшер санітарний",
+        "hash": "5a0e62d667a4821d4f0525f65e3c76cb124ff1c8ed43f23f63533d60ae4018b6"
+    },
+    {
+        "code": "P205",
+        "description": "Гігієніст зубний",
+        "hash": "1fc4737af165515f2f5caf0daeb6997d29b5fff6e7d99abcec4233eb1f395a41"
+    },
+    {
+        "code": "P206",
+        "description": "Інструктор із санітарної освіти",
+        "hash": "2e526ffb833ae935fd686e90562967775cefe56af25bbf8b570a356ccb734547"
+    },
+    {
+        "code": "P207",
+        "description": "Оптометрист",
+        "hash": "3c97a64f3e1bfe617adb434eefe8470bdbef5a1b1bf32510897c2a2c72cd5478"
+    },
+    {
+        "code": "P208",
+        "description": "Помічник лікаря-стоматолога",
+        "hash": "de49ecab31ae7b875cf560657dd01924d4555719d8a8f4fdd8b58b5b176a3db1"
+    },
+    {
+        "code": "P209",
+        "description": "Технік зубний",
+        "hash": "c9ff396c91f2c8d4fceac0cf8ec043f2726395bc5cf88c19b2d9ba6192decb97"
+    },
+    {
+        "code": "P21",
+        "description": "Провізор",
+        "hash": "aabe85062b4cd983f463a7f4a3562238fb25d8d30b89008c5086e08af35770a8"
+    },
+    {
+        "code": "P210",
+        "description": "Асистент ерготерапевта",
+        "hash": "1bb51533671c86f15bbe816b0d17b325f7e08aed77c753540c8697f93ecc4638"
+    },
+    {
+        "code": "P211",
+        "description": "Асистент фізичного терапевта",
+        "hash": "8e4a9b19ddd366509770123e3b57b14d0bde17558d0b187f46b946e4d5cb9c6c"
+    },
+    {
+        "code": "P212",
+        "description": "Інструктор з трудової адаптації",
+        "hash": "5c1ae1853846cb0d926a280c9e70661d1456a5e74696ce333255b7aaefc22cfa"
+    },
+    {
+        "code": "P213",
+        "description": "Інструктор з трудової терапії",
+        "hash": "0bb15bc0cd332859e2d32787e8494dd0f4658f1dcc2bcfafde2ee04f1a177a59"
+    },
+    {
+        "code": "P214",
+        "description": "Масажист",
+        "hash": "f6489df920ea08c7b5413bbcd12ff57356668673a74aa508dc7be0000ba2a5b1"
+    },
+    {
+        "code": "P215",
+        "description": "Масажист спортивний",
+        "hash": "c9a5938f508e664707f45224f180a1caad88cf0dbeaace4f22fa349f4405b540"
+    },
+    {
+        "code": "P216",
+        "description": "Фахівець з фізичної реабілітації",
+        "hash": "c2f78d6e7a49269705e1257a92776c0ecf1f5930799fc90f3f15ef7c1e88eee1"
+    },
+    {
+        "code": "P217",
+        "description": "Провізор клінічний",
+        "hash": "c78e8b6dfb517453a451b903682e2c4a6ab08249a32b73ad4832cda3c5944ae9"
+    },
+    {
+        "code": "P218",
+        "description": "Провізор-аналітик",
+        "hash": "e7067bf25d4d137f5a3a5ca6c07b41ddd8c9f3405171dafdb56ee160715cc083"
+    },
+    {
+        "code": "P219",
+        "description": "Провізор-гомеопат",
+        "hash": "2100bb9b6a30b1ae2b955981c594ad691876d33a00fda8f2a346488144f72db6"
+    },
+    {
+        "code": "P22",
+        "description": "Комерційний директор",
+        "hash": "a53f327e4780713dd794d0c3bf20c31e57b6491e39499fce3924b4d5f33e63c1"
+    },
+    {
+        "code": "P220",
+        "description": "Провізор-косметолог",
+        "hash": "1b4f4376e02a063e2c91c7fb3efc169d13ae7030e5a5e2316675ce309b25c6f2"
+    },
+    {
+        "code": "P221",
+        "description": "Провізор-токсиколог",
+        "hash": "fb4dbcf0650dccd0204affac95fffc28ed65847f0ac8f7c2cbbc5190d40c5ba9"
+    },
+    {
+        "code": "P222",
+        "description": "Лаборант (фармація)",
+        "hash": "1b70ffad1465330a5ada3ded43de52b840ba31f6b8b9dfc926a9820851b81921"
+    },
+    {
+        "code": "P223",
+        "description": "Провізор-інтерн",
+        "hash": "6ff4a4036f4c37317ead0de5995862bc249812f284b507f7250df1e1ec4d33c5"
+    },
+    {
+        "code": "P224",
+        "description": "Експерт-імунолог судовий",
+        "hash": "0ba3053a4e373a41bb176530e545ff02fdf131ecf95fe71cecc1105b8907ccf0"
+    },
+    {
+        "code": "P225",
+        "description": "Експерт-токсиколог судовий",
+        "hash": "434983a1cfb2a1989c69d85c602af91c2e1298b6cbef5cb3d9a1399454741c53"
+    },
+    {
+        "code": "P226",
+        "description": "Експерт-цитолог судовий",
+        "hash": "275b94726869396c3592cce1aa03435fcc9124fb8dd0853ed52474bdad24317a"
+    },
+    {
+        "code": "P227",
+        "description": "Екстрений медичний технік",
+        "hash": "3c7494c4fd1d66da33ea2dbebca02cf7095ccb94fa48ada5ad07d26aa181a485"
+    },
+    {
+        "code": "P228",
+        "description": "Лікар-кардіолог інтервенційний",
+        "hash": "79b332c35aeb663efdef89c041ca0d6833dea64c5cc44281c07a32466416a2a7"
+    },
+    {
+        "code": "P229",
+        "description": "т.в.о. головного лікаря",
+        "hash": "255d2927ade8a1dbba27b69cf50b341e1676b2a5fad25b970b4bd58bb787d26e"
+    },
+    {
+        "code": "P23",
+        "description": "в.о. генерального директора",
+        "hash": "95b7cdf470840d64afee7d47af6149596cfe6814bf549a4672cffa921b5ae758"
+    },
+    {
+        "code": "P230",
+        "description": "т.в.о. директора",
+        "hash": "ac397091a1b32e08ee1f5a36c3e2e0cb464803c1e93896f20ebf7a73fc6376ab"
+    },
+    {
+        "code": "P231",
+        "description": "керівник",
+        "hash": "960d04cc1f376f589cefdf94f6b816d35cf2d3a03bc57436e5bcf274ff8d4d8c"
+    },
+    {
+        "code": "P232",
+        "description": "особа – управитель майна",
+        "hash": "baffc4dab39f6065eb8361e917e180982e7c0080641bb5c52903e84c7afac33a"
+    },
+    {
+        "code": "P233",
+        "description": "голова комісії з припинення або ліквідатор",
+        "hash": "c013c9ac58f1a90ae42c90a9a799e96cfecd694e44be60161623ceeb75878d64"
+    },
+    {
+        "code": "P234",
+        "description": "ліквідатор",
+        "hash": "8e4e813e52e4ac4edc8e3802342f652ed728e7034822df1edfe9876126ea5f20"
+    },
+    {
+        "code": "P235",
+        "description": "керуючий санацією",
+        "hash": "30cd3d04eb3382ee0f58dc24aa3115ec50deeba71cbab8dd8710cdfd9ac65d1c"
+    },
+    {
+        "code": "P236",
+        "description": "розпорядник майна",
+        "hash": "3732098ef64223af7a717cbf953602b6c682fb34af42669504f6221d94b71915"
+    },
+    {
+        "code": "P237",
+        "description": "Голова",
+        "hash": "9868c8b82304e4bb5de4f7c1f1a292304264710c1e7d5b50630a8fa388030855"
+    },
+    {
+        "code": "P238",
+        "description": "в.о. Голови",
+        "hash": "f24c19e13f73d2decdd635e4d3b00ee0a981bbf741e2caefefc4ed317ab2bd18"
+    },
+    {
+        "code": "P239",
+        "description": "Заступник Голови",
+        "hash": "dc4ebb2361b5dae208ad3eada3cf475bffe9a8e3b5fd002ca0f324238dc2951a"
+    },
+    {
+        "code": "P24",
+        "description": "в.о. директора",
+        "hash": "0274795a17855c2d2ede6e035b1eb65df8fccfdfbe730ff6268b5a8992106107"
+    },
+    {
+        "code": "P240",
+        "description": "Виконавчий директор",
+        "hash": "91bc3c4bdfcd46ba0c4e885b2eccab5831488456e80257726fe0d4a4fb788517"
+    },
+    {
+        "code": "P241",
+        "description": "Лаборант з бактеріології",
+        "hash": "e6298e8449c941f154600d833a2ca782e34c1287ff924c3986aa9912fb0a0f4a"
+    },
+    {
+        "code": "P242",
+        "description": "Лаборант з імунології",
+        "hash": "a7fe9e0c80c85dd9d5d9ceb1af98235d4a0eed4908c55ec71de485038587e8e9"
+    },
+    {
+        "code": "P243",
+        "description": "Лаборант клініко-діагностичної лабораторії",
+        "hash": "236a2a4b9e3c425bf56abea0e36b3cf9b98c8f6b9286d9b5d0b4253817f2f4a1"
+    },
+    {
+        "code": "P244",
+        "description": "Лаборант з патологоанатомічних досліджень",
+        "hash": "39059fc6bccf7f12a0173d9109d8a04d7f436c013884d5cfd9528222ad59918e"
+    },
+    {
+        "code": "P245",
+        "description": "Лікар-кардіолог-електрофізіолог",
+        "hash": "a3cea754f0b361f52ba4b598f7c3908234fe1ab292fe50a9f43456a0dc1d1db1"
+    },
+    {
+        "code": "P246",
+        "description": "Лікар-кардіолог дитячий",
+        "hash": "f377bfe330b61e6f6e24f0ae5fb33b50f690210b1f5bd89dd41d9d0f08159f8d"
+    },
+    {
+        "code": "P247",
+        "description": "т.в.о. Голови",
+        "hash": "87c0805f851f029b5620610f0f322d57122641e20a27edbb197afc075cd38a6b"
+    },
+    {
+        "code": "P248",
+        "description": "Лікар-ревматолог дитячий",
+        "hash": "085e15f5d77d292ff1a936b847b2a0986334728c37e32a2efa2b05a30e5e995e"
+    },
+    {
+        "code": "P249",
+        "description": "Медичний директор",
+        "hash": "689ac689ddc1ec9cd3a30475022d15e56f383c6dd1b6a8ab6ce59aa8709a95c2"
+    },
+    {
+        "code": "P25",
+        "description": "в.о. головного лікаря",
+        "hash": "395b516d574632d21cecb18be55982e56f647d1da1bae7bdf74316fde6cb2cae"
+    },
+    {
+        "code": "P250",
+        "description": "Інструктор-дезінфектор",
+        "hash": "8abcf31da5ac6cf31756d44336f3ba0fccf58ca2dd77e28d9f059378f87d9845"
+    },
+    {
+        "code": "P251",
+        "description": "Лаборант судово-медичної лабораторії",
+        "hash": "d1c05c335bbcb12dbd1c8b542e0ee553b2cb4c6262b11b443510e736539f1903"
+    },
+    {
+        "code": "P252",
+        "description": "Помічник санітарого лікаря",
+        "hash": "f23cf801592782b6b1c6cd8b2c2f0d2334ba5d658b7593bfa6546aef93bcf417"
+    },
+    {
+        "code": "P253",
+        "description": "Дезінструктор",
+        "hash": "d891a15854920831af86a1ff6ba213660832980e54d66e06343c9398fe3923d9"
+    },
+    {
+        "code": "P254",
+        "description": "Молодша медична сестра з догляду за хворими",
+        "hash": "0dc87c5e64eb91879b8e817891118f3982949a0a46c4af75655fa528a2b7ebe6"
+    },
+    {
+        "code": "P255",
+        "description": "Молодша медична сестра (санітарка-прибиральниця, санітарка-буфетниця тощо)",
+        "hash": "4531974add19b361ad8b04d5962cf5ecf1c1c06019e8700a9fd6bdba06994408"
+    },
+    {
+        "code": "P256",
+        "description": "Лаборант санітарно-гігієнічної лабораторії",
+        "hash": "915e7a2055c2fec348f2a8846c6a41fbc22f0ac56e3edd84ecf108053bcb20a2"
+    },
+    {
+        "code": "P257",
+        "description": "т.в.о. генерального директора",
+        "hash": "5532565696dd275442f2faca26b8283a310eb4a210d48194b098b37b697d3ddf"
+    },
+    {
+        "code": "P258",
+        "description": "Лікар-зубний",
+        "hash": "87b19ad2e963b81fcb46e1b0be201a0a64ba8041f6ead3ff28367d6b939110f8"
+    },
+    {
+        "code": "P259",
+        "description": "Старший фармацевт",
+        "hash": "70744cb1d169b5f1ce68c888d41363b8c6c7fc4d32af6488e1fe656fdce8435f"
+    },
+    {
+        "code": "P26",
+        "description": "ФОП",
+        "hash": "7c8dfbcdec05d14936faf8749f533b4574b981064f9594b32d0043af5badeb84"
+    },
+    {
+        "code": "P260",
+        "description": "Фармацевт-аналітик",
+        "hash": "431060948ce26cb9cfeb231554de5bf205ffd1bc48ea2e7dd15b5c1ea76f354b"
+    },
+    {
+        "code": "P261",
+        "description": "Фармацевт клінічний",
+        "hash": "9265e572607b19384cd04d09394cc818622bb3a0d0617044aff8f6662a485044"
+    },
+    {
+        "code": "P262",
+        "description": "Фармацевт-косметолог",
+        "hash": "27ad076813d8bb0e2ac4ac528478ea15d115ca7f824d0c07de253b534683bc40"
+    },
+    {
+        "code": "P263",
+        "description": "Фармацевт-токсиколог",
+        "hash": "f46dadfa149c914e0b9a09170140efd4e1d556320775c2d8cca21dd911d377a1"
+    },
+    {
+        "code": "P264",
+        "description": "Фармацевт-інтерн",
+        "hash": "6366fc386253ad5db1d4d517260e6d4e4ed89db48b83d83a5814108e3ecd916d"
+    },
+    {
+        "code": "P265",
+        "description": "Асистент фармацевта",
+        "hash": "b4e9f3f37859c7b4e8be7c9fb29db8d7df55aba8636558cc9f14dbd41e951391"
+    },
+    {
+        "code": "P266",
+        "description": "Лікар-гематолог-онколог дитячий",
+        "hash": "accbba1f1f7fb3e6b238459307a5799f26a265fa91fd438a4685e8f69c7cc192"
+    },
+    {
+        "code": "P267",
+        "description": "Лікар-стоматолог-пародонтолог",
+        "hash": "a58c18e01d1c6cfeb3bd7ee76e34b765cd34abd9246c785f80dbebff4b13d142"
+    },
+    {
+        "code": "P268",
+        "description": "Лікар-хірург-дерматолог",
+        "hash": "f264447d409972abc86863cb2f4dc46ed7b1aeb04d27655e783bfa462c6b1de1"
+    },
+    {
+        "code": "P269",
+        "description": "Лікар-хірург пластичний",
+        "hash": "8adac09dd306eb4cae0957fca9d118deff2b4e39016bbb399369659a58e7f5ce"
+    },
+    {
+        "code": "P27",
+        "description": "Спеціаліст",
+        "hash": "c540acd79719b08df48ab5d41b8781d40f31fcd2c06179e7ef8263253ed13e5a"
+    },
+    {
+        "code": "P270",
+        "description": "Лікар-хірург щелепно-лицевий",
+        "hash": "a2c4d1f7875e9744d07f1af5c2780b65b6726b681355e7b4893eadf81970db20"
+    },
+    {
+        "code": "P271",
+        "description": "Бактеріолог",
+        "hash": "fcaea2ff5dca64016905ccc605c513d6d769f188aaf00d1fdde7f984d45d7406"
+    },
+    {
+        "code": "P272",
+        "description": "Біохімік",
+        "hash": "290302d9fdad2b2b3734770f4947d2010ce3d57a6e8e0da0f48d6f8c2894740b"
+    },
+    {
+        "code": "P273",
+        "description": "Вірусолог",
+        "hash": "1e27edf173e7e95c34439729a901e2b2437441dbdbbef5d27b1c4a30936b4f3d"
+    },
+    {
+        "code": "P274",
+        "description": "Генетик",
+        "hash": "858b7dd03854d48f68b3cd1f64243dea4418e8520a0045823e99688e86c2bda8"
+    },
+    {
+        "code": "P275",
+        "description": "Ентомолог",
+        "hash": "db2d054f66786c48dd850a83c6ed3e3462ddff855c51bdba9cbadf22f29a3046"
+    },
+    {
+        "code": "P276",
+        "description": "Імунолог",
+        "hash": "dff7b4e108376e5cb22c395d8dfd9e2c1b0aa23aae556fe780accecf8deac4c5"
+    },
+    {
+        "code": "P277",
+        "description": "Лаборант клінічної діагностики",
+        "hash": "6e9846913fd86366cff3c576ab94aa35dea9f6ec01d61588a590676930066daf"
+    },
+    {
+        "code": "P278",
+        "description": "Мікробіолог",
+        "hash": "34e5bf9802f4526999be133f85c5e4d1cc2b45a4e04c38c5d12180916225a050"
+    },
+    {
+        "code": "P279",
+        "description": "Паразитолог",
+        "hash": "d2f90911a2f11573eea3388199350d206d6321a0039c5622fd72799334980502"
+    },
+    {
+        "code": "P28",
+        "description": "Головний спеціаліст",
+        "hash": "696f1d764d00b32c42bb67af112f8ccde538ea1749dea45c3c4c95f6b0719bb0"
+    },
+    {
+        "code": "P280",
+        "description": "Трансплант-координатор",
+        "hash": "0d0cbe6b4b9dcc97355d47dd76c0b28072180e0070e71765bebdff2cf760a4f0"
+    },
+    {
+        "code": "P281",
+        "description": "Цитоморфолог",
+        "hash": "ce2e55b58aa245dae62373e21632e623a62acb695becc8eb3f2332ad1f055b8e"
+    },
+    {
+        "code": "P282",
+        "description": "Лікар з радіаційної онкології",
+        "hash": "e513d2fd4f5cb5eaf57b33da548a6bbc46dba69e76c7596354f92904e26ceb78"
+    },
+    {
+        "code": "P283",
+        "description": "Лікар з ядерної медицини",
+        "hash": "4f581af92b65334e825c192fab008f2b8bcfba219fb198709db00da0931d03e7"
+    },
+    {
+        "code": "P284",
+        "description": "Терапевт мови і мовлення",
+        "hash": "e72a1ad359efbbd6381af997a82518036b1dbec7c4faa4e866243f0d098fd8d6"
+    },
+    {
+        "code": "P285",
+        "description": "Клінічний психолог",
+        "hash": "d8e7ce726399517d83f2d6e5ed59efc6b9ced58d5beb3903dceba07aa14837e1"
+    },
+    {
+        "code": "P286",
+        "description": "Психотерапевт",
+        "hash": "f46bcfbe7a6e4e345efa733d351e5b3b27aa54084d70c260b3e4fd7469ac3daa"
+    },
+    {
+        "code": "P29",
+        "description": "Начальник відділу",
+        "hash": "e700d9977761179dc2d9bbefa5589015e406fb915c506d5eedf711d4878ce4f3"
+    },
+    {
+        "code": "P3",
+        "description": "Головний лікар",
+        "hash": "bb5e33c3d33e4d16eb4b21ee977f96f5f4ee261ef38e6d4ef4915de5dd0dfdaa"
+    },
+    {
+        "code": "P30",
+        "description": "Начальник управління",
+        "hash": "dec2a2f6f8292a2fcc2c32bd7867e2e3ed01fdb1d09e34016384b86d1feade93"
+    },
+    {
+        "code": "P31",
+        "description": "Директор департаменту",
+        "hash": "ff57fe09458954df0acd4e9299c2f884d1d00223f9b00c06582c5ddd1270063f"
+    },
+    {
+        "code": "P32",
+        "description": "Головний державний санітарний лікар - головний лікар",
+        "hash": "1a0cb71112cff723907bbbbf1f8c776579daf4405cf786816c54c6223a7f6ee8"
+    },
+    {
+        "code": "P33",
+        "description": "Лікар з авіаційної медицини",
+        "hash": "81f43c92c71360d1f90ef2cbe17a827ccd44ace7ba8613b54f65f0b3249c27f3"
+    },
+    {
+        "code": "P34",
+        "description": "Лікар-акушер-гінеколог",
+        "hash": "f408629e06d27cf708ac685b3e837dc910381d5d6fc9f5dbf7969f6c105d71c3"
+    },
+    {
+        "code": "P35",
+        "description": "Лікар-алерголог",
+        "hash": "4f909b67feb0e8ddf7ac650489aa0bf5a0c7688c26faca23accecc54b56b5496"
+    },
+    {
+        "code": "P36",
+        "description": "Лікар-алерголог дитячий",
+        "hash": "b63cf020fc1f3986a8e568386d7c9ff4fe697548fc45fe9091071619d1bd2e76"
+    },
+    {
+        "code": "P37",
+        "description": "Лікар-анестезіолог",
+        "hash": "fdeed451015d29813b5177c09dec9e3893ed749846afe30590119caa07f17ed9"
+    },
+    {
+        "code": "P38",
+        "description": "Лікар-анестезіолог дитячий",
+        "hash": "46db644004b1e631c7455c2c7b7571aed184fdb570b57d932eef745b9193347b"
+    },
+    {
+        "code": "P39",
+        "description": "Лікар-бактеріолог",
+        "hash": "5dd4e8d97f1db12680f6550135d6635c3a08532c5ebda1876c657d4446053402"
+    },
+    {
+        "code": "P4",
+        "description": "Начальник",
+        "hash": "b36614c54c4f895a5c906f8bd71abee99da270561075f52ef103da97d7937edf"
+    },
+    {
+        "code": "P40",
+        "description": "Лікар-вірусолог",
+        "hash": "28b616c88dc2217425a43daf290ae8cb58b7ae6e4ed4fb97d6ff69ad3f9fb283"
+    },
+    {
+        "code": "P41",
+        "description": "Лікар-гастроентеролог",
+        "hash": "e678f18c6aa60b87796bb470e6f51e9094f7c34848a7329d09b87c1f500d8c5c"
+    },
+    {
+        "code": "P42",
+        "description": "Лікар-гастроентеролог дитячий",
+        "hash": "555bb7a1f290f391d5cf182ce53d3e2854c3704aef300ae1d7aca529286035cd"
+    },
+    {
+        "code": "P43",
+        "description": "Лікар-гематолог",
+        "hash": "bbc9c8841cd8a3481252151ff1fe8f79599d2abf2c982dd9c896759bc87a084e"
+    },
+    {
+        "code": "P44",
+        "description": "Лікар-гематолог дитячий",
+        "hash": "2f5bc59653929c07a62b54d06142e42f8f59d3f16c82e75ba5a057d43d49cb6b"
+    },
+    {
+        "code": "P45",
+        "description": "Лікар-генетик",
+        "hash": "3f4800d3b31d65e9026a8ac6208ca8724912ea4aaaa9fcae28a58366ac23b679"
+    },
+    {
+        "code": "P46",
+        "description": "Лікар-геріатр",
+        "hash": "4d6be6d0bd428a0c3147789a079bf1ea5483036ee06cb7167c11b0ef03256ccc"
+    },
+    {
+        "code": "P47",
+        "description": "Лікар-гінеколог дитячого та підліткового віку",
+        "hash": "26a89376bd5e14e750d7d3161db2996281d4b8185b211cbaf5ed3fdccebc1831"
+    },
+    {
+        "code": "P48",
+        "description": "Лікар-гінеколог-онколог",
+        "hash": "657fa0d60243c91a9eadbee128d2d22a2e560f16d9868461c3802438c1db0e13"
+    },
+    {
+        "code": "P49",
+        "description": "Лікар з гігієни дітей та підлітків",
+        "hash": "a0bc8c45dce7e5b1119251c7f59efc03563285d3836d915f0ec41163210a6bdb"
+    },
+    {
+        "code": "P5",
+        "description": "Завідувач",
+        "hash": "5664eaf8f3d83ebc504016dca7d4a655d6665b2250ebcb870405a4fb1c81637b"
+    },
+    {
+        "code": "P50",
+        "description": "Лікар з гігієни праці",
+        "hash": "bf56f02c4172d9da3dbd9d91d4923c8676402e7d6ede1716b803940edf3a7217"
+    },
+    {
+        "code": "P51",
+        "description": "Лікар з гігієни харчування",
+        "hash": "c6ec1389519476f4b44f50e834b380f7b4e2e58d270164a762e1154a1e8ffe66"
+    },
+    {
+        "code": "P52",
+        "description": "Лікар-дезінфекціоніст",
+        "hash": "b23bea082b36ac9774fa3c8d6181af690596e835027591b12388164cb4752632"
+    },
+    {
+        "code": "P53",
+        "description": "Лікар-дерматовенеролог",
+        "hash": "e58fa42fb97f472de9b798c70de7980d56e8e400b010ee99a97098416c765eda"
+    },
+    {
+        "code": "P54",
+        "description": "Лікар-дерматовенеролог дитячий",
+        "hash": "c15057bce07170abee9cdbccb869c40190a262ad691310091a70eaf1dfa51e9b"
+    },
+    {
+        "code": "P55",
+        "description": "Лікар-дієтолог",
+        "hash": "9fa1d36ee35a2003e7dea31add4ea5dfb61215ef5e63f48209a3a993f9e1d223"
+    },
+    {
+        "code": "P56",
+        "description": "Лікар-ендокринолог",
+        "hash": "2c453163b5203983b94632b6d0b0a05899d56951440e42b127a5c0db63683ddb"
+    },
+    {
+        "code": "P57",
+        "description": "Лікар-ендокринолог дитячий",
+        "hash": "2b8d7663e964334a22a498f380e16613cbe77d42f255134ad13f34ea2d59e9db"
+    },
+    {
+        "code": "P58",
+        "description": "Лікар-ендоскопіст",
+        "hash": "3d02c1a494c348c49fb4d62bcbb1f5090b0420882ef9679275ba52940483a930"
+    },
+    {
+        "code": "P59",
+        "description": "Лікар-епідеміолог",
+        "hash": "185f598c488fb9af8386442226e71eeb372a3c2743dfb14b75d30e99d8a68f4a"
+    },
+    {
+        "code": "P6",
+        "description": "Заступники з числа лікарів",
+        "hash": "1871db80f850eb211698443ef9d07e6d2cf468ff368e3117fbd3e094bfe58125"
+    },
+    {
+        "code": "P60",
+        "description": "Лікар із загальної гігієни",
+        "hash": "2b6d764ddc2aa44241da585c496840f19c7cbb020c39323a7d14b2f75852b43f"
+    },
+    {
+        "code": "P61",
+        "description": "Лікар-імунолог",
+        "hash": "09cf33618e3bad1e1aef3dc14c70f3d04b83ef1db544ed53a7e1350ee3d34220"
+    },
+    {
+        "code": "P62",
+        "description": "Лікар-імунолог клінічний",
+        "hash": "6d08e537589662658520176687f4131a5396d892f680cf1e2bb603afa7ce9a2c"
+    },
+    {
+        "code": "P63",
+        "description": "Лікар-імунолог дитячий",
+        "hash": "f1463d22b1acb6063b5d39228a44a258aaa746cf3d4d12e3d4a8913de1af4552"
+    },
+    {
+        "code": "P64",
+        "description": "Лікар-інфекціоніст",
+        "hash": "dd87980ee763e4c379092c120c694c7f0c087e5b774ee3f38ae30bb175d47824"
+    },
+    {
+        "code": "P65",
+        "description": "Лікар-інфекціоніст дитячий",
+        "hash": "2707d9ac838097f07b2e4991d930237cdd8727255c5337a1ce0a3044d5977650"
+    },
+    {
+        "code": "P66",
+        "description": "Лікар-інтерн",
+        "hash": "e759420b20a3221ccaff604b51de3db0ce7ef27ea46d1a87169babe98954af3e"
+    },
+    {
+        "code": "P67",
+        "description": "Лікар-кардіолог",
+        "hash": "6da7fc21f7a34b7c6431f38b81216e38056fc3c50511cdb5874dfda3ceef7bee"
+    },
+    {
+        "code": "P68",
+        "description": "Лікар-кардіоревматолог дитячий",
+        "hash": "04889dbced9a139405f6e08e64da3507ba1c6cd5b7e14aa0bf1f46aeba67d2bf"
+    },
+    {
+        "code": "P69",
+        "description": "Лікар-комбустіолог",
+        "hash": "681cdf18065782391973b689ed813088fe813d51a802fa755fdf41d15f3bdb00"
+    },
+    {
+        "code": "P7",
+        "description": "Лікар загальної практики - сімейний лікар",
+        "hash": "61458fc17f62312749938cfa165e8b6eb9adf583b65f4a402e47d29007faa811"
+    },
+    {
+        "code": "P70",
+        "description": "Лікар з комунальної гігієни",
+        "hash": "21b7e515537109661ae9991e8a0be1a513cc92d8a4b28e2c361a6fac23b012e8"
+    },
+    {
+        "code": "P71",
+        "description": "Лікар-лаборант",
+        "hash": "994fae14d2efe084fb6d8b5b95477497ae277a2460d9d0bd3621bf425788ef90"
+    },
+    {
+        "code": "P72",
+        "description": "Лікар-лаборант-генетик",
+        "hash": "2b713651e0138d5025ad3b17ce01654aaf9c8a7a9b63886c4fe9e5474384ac23"
+    },
+    {
+        "code": "P73",
+        "description": "Лікар-лаборант-гігієніст",
+        "hash": "208de788aca4ca9a54dec49533d089d42ffe4932fc573a550b45a57b023deea8"
+    },
+    {
+        "code": "P74",
+        "description": "Лікар-лаборант-імунолог",
+        "hash": "28467d3278193bf58e93d1cc92cd8a3080b96e20db69f124307892daab073d1f"
+    },
+    {
+        "code": "P75",
+        "description": "Лікар-лаборант з клінічної біохімії",
+        "hash": "1e359b031518a92db111ca06b0bdff57424b423ab034f5d73f4bb3621cbf9540"
+    },
+    {
+        "code": "P76",
+        "description": "Лікар-лаборант-гігієніст з дослідження хімічних факторів навколишнього середовища",
+        "hash": "0c34bfab2e2b2c0bb2022fadb14059f16a693f3162098a46fb7534c69021100c"
+    },
+    {
+        "code": "P77",
+        "description": "Лікар-лаборант-гігієніст з дослідження фізичних факторів навколишнього середовища",
+        "hash": "98919d884ad3d1614b5a4cac47570db4b128886a1374e596aa4536ff7328c4ce"
+    },
+    {
+        "code": "P78",
+        "description": "Лікар з лікувальної фізкультури та спортивної медицини",
+        "hash": "53622c0aa179b899e31c07b87825411c21a9071e4b3a4cb16c0014ca62834b02"
+    },
+    {
+        "code": "P79",
+        "description": "Лікар з лікувальної фізкультури",
+        "hash": "8fa06b0be5941d6743d63e2b4a4a90d43701894278a298767ef0c6c5c7930d55"
+    },
+    {
+        "code": "P8",
+        "description": "Лікар-педіатр",
+        "hash": "c79a6bb8c7bb75b25874398b9577956dfac985fff12e0a069473e61ce1ac2ff5"
+    },
+    {
+        "code": "P80",
+        "description": "Лікар-методист",
+        "hash": "e496631df29775c364e265de1ba18a10bbb334fa456a727bf83862867ad8ba8f"
+    },
+    {
+        "code": "P81",
+        "description": "Лікар-мікробіолог-вірусолог",
+        "hash": "7a3935fdd55bb6664af94946d226ebf7d5ab13f0500d9819afdec0ea64d5030e"
+    },
+    {
+        "code": "P82",
+        "description": "Лікар з народної та нетрадиційної медицини",
+        "hash": "fee2264cab4f5c1fb84f18ce3f9b232210bc724533f19d9d021337a827ec1a5c"
+    },
+    {
+        "code": "P83",
+        "description": "Лікар-нарколог",
+        "hash": "e823242a97646a2f8b77da24171d3a4d7130626248d8e03628d54a7922cac724"
+    },
+    {
+        "code": "P84",
+        "description": "Лікар-нарколог дільничний",
+        "hash": "7d76376d21e0c945a37fa88aad1286b8666e4d4d0e7b77f60134d53cacb2f39a"
+    },
+    {
+        "code": "P85",
+        "description": "Лікар-невропатолог",
+        "hash": "b5859b760c0ae32f3b87617a07f310c42f35b8b24c5435c061429f95df7f87af"
+    },
+    {
+        "code": "P86",
+        "description": "Лікар-невролог дитячий",
+        "hash": "8e0612bb681c1f230e22c18d96f8228697ce73e512bbc98808d63878a57566ee"
+    },
+    {
+        "code": "P87",
+        "description": "Лікар-нефролог",
+        "hash": "d8e6bc6f27e96fc1fe48e0741f330b412edf38f79cc4b9567871ee1dec8ba499"
+    },
+    {
+        "code": "P88",
+        "description": "Лікар-нефролог дитячий",
+        "hash": "33f6f08e610bc9edd1b9aa3e5cbd40b61e636870dc66d774a7c103c8382825d1"
+    },
+    {
+        "code": "P89",
+        "description": "Лікар-нейрохірург",
+        "hash": "3b75bf0bb658e307ea552483f9797c575841535b20f10d96b4c61c570cf85f9e"
+    },
+    {
+        "code": "P9",
+        "description": "Лікар-педіатр дільничний",
+        "hash": "2921b625cdfb0f56a6992331c3cd40d32d700c552e493b49ea31492e9f83b4a5"
+    },
+    {
+        "code": "P90",
+        "description": "Лікар-нейрохірург дитячий",
+        "hash": "255567ee3de549d79aadd003d22a5183a7a83e8619c7b6692408b8d4b10dee9e"
+    },
+    {
+        "code": "P91",
+        "description": "Лікар-онколог",
+        "hash": "768f884587a51c2095fca4ad1dc759ecbeb3222e1801c320b7bd744ff49da478"
+    },
+    {
+        "code": "P92",
+        "description": "Лікар-онколог дитячий",
+        "hash": "90942d43701c74660f6675f0e22b5afc7e0a59705b3e6498eaf314b554ff9f95"
+    },
+    {
+        "code": "P93",
+        "description": "Лікар-ортопед-травматолог",
+        "hash": "8ad5540b92320fecdcac41d774e423a7c086661bc3e365e27cd8e163c6b6dfcd"
+    },
+    {
+        "code": "P94",
+        "description": "Лікар-ортопед-травматолог дитячий",
+        "hash": "9628881f14aacbc71d57042f619a62911dd80c95266cb31e7b79c80cfca87fd9"
+    },
+    {
+        "code": "P95",
+        "description": "Лікар-отоларинголог",
+        "hash": "f799b220e672e52c46dcd20cb3e44bf6aea854f5a4400e3f93cd6b48dacc4739"
+    },
+    {
+        "code": "P96",
+        "description": "Лікар-отоларинголог дитячий",
+        "hash": "f69b959225dc4ce3e59e080f33ce9a31e39269cb4c68656f78ffc089833290b0"
+    },
+    {
+        "code": "P97",
+        "description": "Лікар-отоларинголог-онколог",
+        "hash": "294b38e243887699783127258ae80cddb0665eb0c8d533d7370ae48a4772ebf1"
+    },
+    {
+        "code": "P98",
+        "description": "Лікар-офтальмолог",
+        "hash": "8c90e0b5c3fd9b155e5ab23a41f8e1705c5458f675d0ffe7e1dcfc49094215af"
+    },
+    {
+        "code": "P99",
+        "description": "Лікар-офтальмолог дитячий",
+        "hash": "ef2642294d89318329a9d8b2c39257275fbb5e53cb9a5636d7f3548daa22cf6a"
+    }
+]
