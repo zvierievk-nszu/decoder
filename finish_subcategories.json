@@ -512,11 +512,13 @@
         "title": "Грип та гострі респіраторні інфекції",
         "url": "https://www.dec.gov.ua/mtd/gryp-ta-gostri-respiratorni-infekcziyi/",
         "items": [
-            "5887c84cba172d4fd14040f5688f01621948a23c90a1c88c6785967a80e76776",
-            "78414fb95acdc2b197455d5bdae42247ca6d36a9b9f73b1ef517b7cd04ec0714",
-            "04a7eb593635467da0ab567b70a78b00ac60ae1435f9843422dd5e3f193b0040",
+            "7c13bd7212786419b859d394b3b421dd98a50598eaf5fa6bb11a6ba2a18e7735",
+            "91b4cc4ec7664f9e80e81ade92b26fba8ee329e0ae1a42412029b649776711b8",
+            "434a3998089c7238f5175be8d974cbc718a4770b2e99e162caa45508c17842e5",
+            "9ff25a0ab7282865a86d5b810fe6aa4ebc6fb350235b2c57bf18bee10d2011e3",
+            "dc8be33d379ecda11fdd940864f93af99565f4bd495dff876af441a08386d2a2",
             "9ae976fc13c22f5d7df0877761c4490816b47efbadc20ad882132ff4c9d384f1",
-            "2fc196c525e2c99a919925a59f0ac4bd1caa3f5895419f712c8127ed4e80c375"
+            "7d1e624164632e72716b29a0343d50c786f3938805becf5f48253d2b84cb38dc"
         ]
     },
     "1f54947073e4320cf614c066ab54c7687f604b48466aaa5ecd66f14284813c42": {
@@ -1339,10 +1341,10 @@
         "title": "Легенева гіпертензія",
         "url": "https://www.dec.gov.ua/mtd/legeneva-gipertenziya/",
         "items": [
-            "caf8057499f5a132e8df2df70d5299441e84b86dc807b396201b52b27911cfbc",
-            "55ba7b518d7f5e4ef077350a90f68c315613d6e4d90d1274bffe7d574abb91b5",
-            "d7a636dab8a261a1a10ed6a02a217ad45184df8ac51610a5597f67f5265f8986",
-            "ca403736a574d5c858c305feedb4ea32e1db2df93858368c504c3f3134592eae"
+            "539f70626238708a9963b034df9f696a6414487a0340072c6205970ac37eb1d5",
+            "6dd6ed768cc4835a2671c70dcd1bfe950d2820d736ab8ff82206bf679bb862c3",
+            "37ddc13d319c41015314d2548b8841a5080d7a01ce7d27ccbe274dde1ed2086c",
+            "05791ff7db8d7d40a1074e88d37dedf92ba6eb39f988254e665168a426206330"
         ]
     },
     "84ab8e3f49addf8f4dc53da774b438854e174f53b686014921019c88c03bda35": {
@@ -1737,7 +1739,7 @@
         "title": "Некротизуючий ентероколіт у передчасно народжених дітей",
         "url": "https://www.dec.gov.ua/mtd/nekrotyzuyuchyj-enterokolit-u-peredchasno-narodzhenyh-ditej/",
         "items": [
-            "898ee44b7dd2c9f2c0e2958b887b81f10c20845b16a2020a6638852dc5f4688d",
+            "465ec4893ff0773fc91251cb87ba770c57847fd973558450f30252c0fe4e8ae0",
             "deff9ea34e4fcee7df0f42ef52b3034a88f4362b9d1f67394314561c12a4a27a",
             "0f4513bcb64531e919569b2ac23bff0162ac2122b3e9ce3ec18b0aa9aa78d53e"
         ]
@@ -1947,6 +1949,24 @@
         "items": [
             "d5e6577b7354b8fc8888514ada21efec7798ef6139df8e904b52020b94262880",
             "7f150a0826e4fd7f554664cfac1cbbd1d0d2e0e3bb65ccf9d7763cc62c671b8f"
+        ]
+    },
+    "d6b7848d8c866a162c53e7da470d196dc6707be762be231b811e6d9404990dc8": {
+        "title": "Сказ",
+        "url": "https://www.dec.gov.ua/mtd/skaz/",
+        "items": [
+            "f32a00825effa8e4200833535ba7a3d2f3275d5e2347c2d350f5982da5c5bf6d",
+            "ad349b99f0dd89729b69739d22e7c0fd1308e4272d0fda1f1e71d8610207d1ff",
+            "a7263f87d587fa5dc58d5abba59ea340084cc4af02f9785884f761e4a12c78a8"
+        ]
+    },
+    "0dc6d5af7cf5883f8c8e67737de74e643472a1208d3c04dd296bdfa2365de198": {
+        "title": "Дерматофібросаркома, що вибухає",
+        "url": "https://www.dec.gov.ua/mtd/dermatofibrosarkoma-shho-vybuhaye/",
+        "items": [
+            "2ef1f981ad089f3a65fd9808395faf3766bb666a4515556904cc6a019678e215",
+            "e0e20ee650549c71f4264b0fa3fc3ab97ff838abb6ed836b8be8c4d4ae16f7be",
+            "dfd509f10bf1181cf920439c528b4682beb4ab1e250b834f2d865107c1bc60b1"
         ]
     }
 }
