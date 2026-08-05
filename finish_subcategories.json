@@ -687,9 +687,9 @@
         "title": "Хвороба Вільсона",
         "url": "https://www.dec.gov.ua/mtd/hvoroba-vilsona/",
         "items": [
-            "8eb2876da233b9dc925a233a8f064b2e8644929b2edb0b9d9e53ab9c81db7899",
-            "9ea294caef44e2a2cc49058c4050c81de952e2ff35cd659af99d7eb5c4eec988",
-            "c3147115df9a35baa7ad16bdc10465d61ef04f1156c8c1fac75bb90ddd6bb441"
+            "c8bbd4e570bc2ddb3fc55850cb9337c2f803a6387c5f0ca3b7b7abf964defa20",
+            "a6505cd596b0e658b8cb08aee27df0775ec662c1e779da79b9d7b52f15dec45e",
+            "3d58b89077f375d7231406071cf50ee944a8fb59c7fd742baac45065ac67dcb7"
         ]
     },
     "0ecb5d9db16484b0d2b3068b1905816798bd86257a4a27f470384b22cad78e9f": {
@@ -1967,6 +1967,14 @@
             "2ef1f981ad089f3a65fd9808395faf3766bb666a4515556904cc6a019678e215",
             "e0e20ee650549c71f4264b0fa3fc3ab97ff838abb6ed836b8be8c4d4ae16f7be",
             "dfd509f10bf1181cf920439c528b4682beb4ab1e250b834f2d865107c1bc60b1"
+        ]
+    },
+    "bd4fe98ada7ea206231e189e9e3759fb7a10d949aa5b17d4c1a78fc878590cd2": {
+        "title": "Критерії госпіталізації пацієнтів для надання стаціонарної медичної допомоги",
+        "url": "https://www.dec.gov.ua/mtd/kryteriyi-gospitalizacziyi-pacziyentiv-dlya-nadannya-staczionarnoyi-medychnoyi-dopomogy/",
+        "items": [
+            "6112b6369ac30ac119b6f2409b372238aa7abd919f750525efe60d66835cb18f",
+            "e26101898d1918fe2c66e5fcf342c28b676c08fd1522ab7e2976df6bc79fe5c4"
         ]
     }
 }

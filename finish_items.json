@@ -5966,5 +5966,45 @@
         "Вид": "Наказ",
         "Реєстровий №": "МОЗ 2026-813",
         "Опубліковано": "16.06.2026"
+    },
+    "c8bbd4e570bc2ddb3fc55850cb9337c2f803a6387c5f0ca3b7b7abf964defa20": {
+        "Назва": "Уніфікований клінічний протокол первинної та спеціалізованої медичної допомоги «Хвороба Вільсона»",
+        "document_link": "https://www.dec.gov.ua/?ZG93bmxvYWQ=d3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvZG5fMTA0Ml8yOTA3MjAyNl9kb2QucGRm",
+        "Статус": "Чинний",
+        "Вид": "Протокол",
+        "Реєстровий №": "ГС 2026‑1042",
+        "Опубліковано": "29.07.2026"
+    },
+    "a6505cd596b0e658b8cb08aee27df0775ec662c1e779da79b9d7b52f15dec45e": {
+        "Назва": "Клінічна настанова, заснована на доказах «Хвороба Вільсона»",
+        "document_link": "https://www.dec.gov.ua/?ZG93bmxvYWQ=d3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvMjAyNl9rbl9odi5wZGY=",
+        "Статус": "Чинна",
+        "Вид": "Настанова",
+        "Реєстровий №": "КН 2026‑1042",
+        "Опубліковано": "29.07.2026"
+    },
+    "3d58b89077f375d7231406071cf50ee944a8fb59c7fd742baac45065ac67dcb7": {
+        "Назва": "Наказ МОЗ",
+        "document_link": "https://www.dec.gov.ua/?ZG93bmxvYWQ=d3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvZG5fMTA0Ml8yOTA3MjAyNi5wZGY=",
+        "Статус": "Чинний",
+        "Вид": "Наказ",
+        "Реєстровий №": "МОЗ 2026‑1042",
+        "Опубліковано": "29.07.2026"
+    },
+    "6112b6369ac30ac119b6f2409b372238aa7abd919f750525efe60d66835cb18f": {
+        "Назва": "Стандарт «Критерії госпіталізації пацієнтів для надання стаціонарної медичної допомоги»",
+        "document_link": "https://www.dec.gov.ua/?ZG93bmxvYWQ=d3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvZG5fMTA0NF8zMDA3MjAyNl9kb2QucGRm",
+        "Статус": "Чинний",
+        "Вид": "Стандарт",
+        "Реєстровий №": "ГС 2026‑1044",
+        "Опубліковано": "30.07.2026"
+    },
+    "e26101898d1918fe2c66e5fcf342c28b676c08fd1522ab7e2976df6bc79fe5c4": {
+        "Назва": "Наказ МОЗ",
+        "document_link": "https://www.dec.gov.ua/?ZG93bmxvYWQ=d3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvZG5fMTA0NF8zMDA3MjAyNi5wZGY=",
+        "Статус": "Чинний",
+        "Вид": "Наказ",
+        "Реєстровий №": "МОЗ 2026‑1044",
+        "Опубліковано": "30.07.2026"
     }
 }
