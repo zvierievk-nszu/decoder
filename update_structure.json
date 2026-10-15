@@ -27,6 +27,10 @@
         "info": "Довідник",
         "link": "https://moz.gov.ua/storage/uploads/ec9a218d-e2e0-4ce1-87af-a4d29f093463/%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BD%D0%B8%D0%BA-%D1%81%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%B6%D0%B5%D0%BD%D1%8C-4.pdf"
     },
+    "labloinc": {
+        "info":"Архів НСЗУ 2025. Додаток 1 до роз’яснення щодо правил обліку та кодування надання медичних послуг за сервісом «Лабораторна діагностика» пакету «Профілактика, діагностика, спостереження та лікування в амбулаторних умовах».",
+        "link": "https://nszu.gov.ua/arxiv-dokumentiv?groups%5B2%5D%5Battributes%5D%5B%5D=36&extensions%5B%5D=xlsx"
+    },
     "mkx10am": {
         "info": "",
         "link": ""
